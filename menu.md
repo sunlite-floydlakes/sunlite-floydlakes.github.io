@@ -1,13 +1,13 @@
 ---
-title: Elements
+title: Menu
 feature_text: |
-  A demo of Markdown and HTML includes
+  Our menu.
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Heading 1
+# Page 1
 
 ## Heading 2
 
