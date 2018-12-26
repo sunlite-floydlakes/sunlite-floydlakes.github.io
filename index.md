@@ -1,5 +1,5 @@
 ---
-title: Hours1
+title: Hours
 feature_text: |
   ## Sunlite Bar & Grill
   A family owned and operated bar and grill serving award winning burgers and cold beer. Just off the snowmobile trail!
@@ -8,7 +8,12 @@ excerpt: "Welcome to this website 2"
 ---
 
 
-## Hours2
+**Sunday - Tuesday**
+10:30am - 9:00pm
+**Wednesday**
+10:30am - 12:00 midnight
+**Thursday - Saturday**
+10:30am - 1:00am
 
 
 ## Sunlite at a Glance
