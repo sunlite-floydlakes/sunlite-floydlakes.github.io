@@ -7,13 +7,12 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-### Image includes
+### Our Menu
 
 <img src="\assets\menu_page1.jpg">
+<img src="\assets\menu_page2.jpg">
+<img src="\assets\menu_page3.jpg">
+<img src="\assets\menu_page4.jpg">
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
 
