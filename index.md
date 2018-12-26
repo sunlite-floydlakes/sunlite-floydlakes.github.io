@@ -1,5 +1,5 @@
 ---
-title: Sunlite Bar & Grill
+title: Hours1
 feature_text: |
   ## Sunlite Bar & Grill
   A family owned and operated bar and grill serving award winning burgers and cold beer. Just off the snowmobile trail!
@@ -7,9 +7,8 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Welcome to this website 2"
 ---
 
-Blah Blah Blah
 
-## Hours
+## Hours2
 
 
 ## Sunlite at a Glance
