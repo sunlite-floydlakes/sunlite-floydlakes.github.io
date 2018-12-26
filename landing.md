@@ -3,4 +3,4 @@ title: ''
 excerpt: "Coming soon!"
 ---
 
-## Coming soon!
+Coming soon!
