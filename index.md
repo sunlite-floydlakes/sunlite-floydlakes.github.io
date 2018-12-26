@@ -8,12 +8,12 @@ excerpt: "Welcome to this website 2"
 ---
 
 
-**Sunday - Tuesday**\\
-10:30am - 9:00pm\\
-**Wednesday**\\
-10:30am - 12:00 midnight\\
-**Thursday - Saturday**\\
-10:30am - 1:00am\\
+**Sunday - Tuesday**\
+10:30am - 9:00pm\
+**Wednesday**\
+10:30am - 12:00 midnight\
+**Thursday - Saturday**\
+10:30am - 1:00am\
 
 
 ## Sunlite at a Glance
