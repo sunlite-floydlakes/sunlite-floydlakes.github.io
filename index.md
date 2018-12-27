@@ -6,10 +6,6 @@ excerpt: "Welcome to this website 2"
 ---
 
   <span style="color:goldenrod">A family owned and operated bar and grill serving award winning burgers and cold beer. Just off the 'Richwood North' snowmobile trail!</span> <br>
-  
- <span style="color:gold">A family owned and operated bar and grill serving award winning burgers and cold beer. Just off the 'Richwood North' snowmobile trail!</span> <br>
-    
- <span style="color:gold2">A family owned and operated bar and grill serving award winning burgers and cold beer. Just off the 'Richwood North' snowmobile trail!</span> <br>
 
 
 ## Hours
