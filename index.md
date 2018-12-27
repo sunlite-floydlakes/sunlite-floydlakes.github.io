@@ -3,7 +3,7 @@ title: Work in Progress
 feature_text: |
   ## Sunlite Bar & Grill
   A family owned and operated bar and grill serving award winning burgers and cold beer. Just off the 'Richwood North' snowmobile trail!
-feature_image: "/assets/building_windows.png"
+feature_image: <img src="\assets\building_windows.png">
 excerpt: "Welcome to this website 2"
 ---
 
