@@ -95,9 +95,7 @@ navigation_header:
   Specials: /specials/
   Merchandise: /merchandise/
   Our Story: /story/
-  #Blog: /blog/
-  Crawdad's Landing: /landing/
-  #Fork Alembic: https://github.com/daviddarnes/alembic
+  #Crawdad's Landing: /landing/
 
 navigation_footer:
   Call us at 218-847-4622 
