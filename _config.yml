@@ -37,9 +37,9 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+author: Sunlite Bar & Grill # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Wayne and Kathy Crawford # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     #- https://twitter.com/DavidDarnes
     - https://www.facebook.com/Sunlite-Bar-and-Grill
