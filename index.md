@@ -1,6 +1,6 @@
 ---
 title: Work in Progress
-feature_text: | <br>
+feature_text: |
   <span style="color:white">A family owned and operated bar and grill serving award winning burgers and cold beer. Just off the 'Richwood North' snowmobile trail!</span>
 feature_image: "/assets/building_front_summer.jpg"
 excerpt: "Welcome to this website 2"
