@@ -23,16 +23,15 @@ Up-to-date **hours are below**, and the **current menu** can be found under the 
 
 ## Sunlite at a Glance
 
-- Boat access from both Big and Middle Floyd Lakes (small image?)
+- Boat access from both Big, Middle, and Little Floyd Lakes
 - Pool tables & bubble hockey
 - some other stuff
 
-## Local Partners!
+%## Local Partners!
+%Here are some of the local businesses we purcahse from.
 
-Here are some of the local businesses we purcahse from.
-
-- Tomatoes, cucumbers, and other produce from [Lakeview Greenhouse](https://www.facebook.com/pages/category/Local-Business/Lakeview-Greenhouses-1733740066719982/)
-- Onions from [Gulseth Farms](http://www.lakesareafarmersmarket.com/?post_type=team&p=2802)
-- Fresh ground beef from Hoffman's Meat Market.
-- Pizza from [Great North Pizza Co.](https://www.greatnorthpizzaco.com/)
+%- Tomatoes, cucumbers, and other produce from [Lakeview Greenhouse](https://www.facebook.com/pages/category/Local-Business/Lakeview-Greenhouses-1733740066719982/)
+%- Onions from [Gulseth Farms](http://www.lakesareafarmersmarket.com/?post_type=team&p=2802)
+%- Fresh ground beef from Hoffman's Meat Market.
+%- Pizza from [Great North Pizza Co.](https://www.greatnorthpizzaco.com/)
 
