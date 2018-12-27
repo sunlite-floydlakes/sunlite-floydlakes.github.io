@@ -21,6 +21,16 @@ Up-to-date **hours are below**, and the **current menu** can be found under the 
 10:30am - 1:00am  
 
 
+
+{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
+
+``` html
+{% raw %}{% include map.html id="XXXXXX" title="Sunlite map" %}{% endraw %}
+```
+
+
+
+
 ## Sunlite at a Glance
 
 - Boat access from both Big, Middle, and Little Floyd Lakes
