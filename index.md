@@ -6,7 +6,7 @@ feature_text: |
 feature_image: "/assets/building_front_snow.jpg"
 excerpt: "Welcome to this website 2"
 ---
-
+test
 Please excuse us while our website is under construction.  
 Up-to-date **hours are below**, and the **current menu** can be found under the 'Menu' tab. Other pages are not up and running yet, but check back with us soon!
 
