@@ -1,19 +1,17 @@
 ---
 title: Work in Progress
-feature_text: |
-  <span style="color:white">A family owned and operated bar and grill serving award winning burgers and cold beer. Just off the 'Richwood North' snowmobile trail!</span>
+feature_text: ""
 feature_image: "/assets/building_front_summer.jpg"
 excerpt: "Welcome to this website 2"
 ---
 
-Please excuse us while our website is under construction.  
-Up-to-date **hours are below**, and the **current menu** can be found under the 'Menu' tab. Other pages are not up and running yet, but check back with us soon!
+  <span style="color:orange">A family owned and operated bar and grill serving award winning burgers and cold beer. Just off the 'Richwood North' snowmobile trail!</span>
 
 
 ## Hours
 
 **Sunday - Tuesday**   
-10:30am - 9:00pm  
+&nbsp; &nbsp; 10:30am - 9:00pm  
 **Wednesday**   
 10:30am - 12:00 midnight  
 **Thursday - Saturday**   
