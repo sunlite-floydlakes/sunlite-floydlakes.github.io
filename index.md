@@ -23,7 +23,7 @@ Up-to-date **hours are below**, and the **current menu** can be found under the 
 
 ## Find us
 
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
+{% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x" title="Sunlite Map" %}
 
 
 
