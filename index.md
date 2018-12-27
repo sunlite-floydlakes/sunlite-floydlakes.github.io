@@ -20,6 +20,7 @@ Up-to-date **hours are below**, and the **current menu** can be found under the 
 **Thursday - Saturday**   
 10:30am - 1:00am  
 
+<br><br>
 
 ## Find us
 
@@ -29,14 +30,14 @@ Click the burger for more information.
 
 
 
-
+<!---
 ## Sunlite at a Glance
 
 - Boat access from both Big, Middle, and Little Floyd Lakes
 - Pool tables & bubble hockey
 - some other stuff
 
-<!---
+
 ## Local Partners!
 Here are some of the local businesses we purcahse from.
 
