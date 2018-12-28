@@ -19,7 +19,7 @@ excerpt: "Welcome!"
 <table class="tg">  
    <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\burgerbrawl.jpeg"></td>
-    <td class="tg-0pkyl"><ht1><font color="01BBF2">#1</font></ht1> Jalepeno Cream Cheese Burger</td>
+    <td class="tg-0pkyl"><ht1><font color="01BBF2">2018 Burger Brawl Champion</font></ht1> Jalepeno Cream Cheese Burger</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
