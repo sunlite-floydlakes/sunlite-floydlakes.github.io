@@ -18,8 +18,8 @@ excerpt: "Welcome!"
 </style>
 <table class="tg">  
    <tr>
-    <td class="tg-0pkyr" width="20%"><img src="\assets\burgerbrawl.png"></td>
-    <td class="tg-0pkyl"><ht1><font color="01BBF2">#1</font></ht1> Bar</td>
+    <td class="tg-0pkyr" width="20%"><img src="\assets\burgerbrawl.jpeg"></td>
+    <td class="tg-0pkyl"><ht1><font color="01BBF2">#1</font></ht1> Jalepeno Cream Cheese Burger</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
