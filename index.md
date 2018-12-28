@@ -9,21 +9,42 @@ excerpt: "Welcome!"
 
 >Sunlite is a family owned and operated bar and grill best known for fresh hand-pattied beef, elk, and bison burgers.
 
-<table style="text-align:center;" cellspacing="0" cellpadding="0">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
   <tr>
-    <th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th>
+    <td class="tg-0pky">a</td>
+    <td class="tg-0pky">b</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-  <tr class="even">
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">c</td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
 </table>
-</body>
 
 ## Hours
 
