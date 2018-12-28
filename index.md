@@ -7,8 +7,6 @@ excerpt: "Welcome!"
 ## Sunlite at a Glance
 A family owned and operated bar and grill best known for our fresh hand-pattied beef, elk, and bison burgers. We are situated between Big and Little Floyd Lakes (map below).
 
-| <img src="\assets\snowmobile.png" style="width: 200px; height: 100px"> | &nbsp; | We are just off the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) |
-
 ### Award winning burgers & friendly service
 
 
@@ -26,6 +24,9 @@ A family owned and operated bar and grill best known for our fresh hand-pattied 
 
 
 ## Find us
+
+| <img src="\assets\snowmobile.png" style="width: 200px; height: 100px"> | &nbsp; | We are just off the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) |
+
 
 {% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
 
