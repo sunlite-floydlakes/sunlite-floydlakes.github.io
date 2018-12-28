@@ -20,7 +20,7 @@ excerpt: "Welcome!"
   <col width="50%">
   <col width="50%">
   <tr>
-    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" width="20%"></td>
+    <td class="tg-0pkyr" width="50%"><img src="\assets\bestoflakes.png" width="20%"></td>
     <td class="tg-0pkyl">#1 Bar/Club</td>
   </tr>
   <tr>
