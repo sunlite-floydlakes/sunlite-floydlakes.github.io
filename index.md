@@ -16,9 +16,11 @@ excerpt: "Welcome!"
 .tg .tg-0pkyl{border-color:inherit;text-align:center;vertical-align:left}
 .tg .tg-0pkyr{border-color:inherit;text-align:center;vertical-align:right}
 </style>
-<table class="tg">
+<table class="tg">  
+  <col width="50%">
+  <col width="50%">
   <tr>
-    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" height="30" width="30"></td>
+    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" width="20%"></td>
     <td class="tg-0pkyl">#1 Bar/Club</td>
   </tr>
   <tr>
