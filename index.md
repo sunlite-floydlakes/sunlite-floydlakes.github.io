@@ -19,7 +19,7 @@ excerpt: "Welcome!"
 <table class="tg">  
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><font color="01BBF2">#1</font> Bar</td>
+    <td class="tg-0pkyl"><h1><font color="01BBF2">#1</font></h1> Bar</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
@@ -40,7 +40,7 @@ excerpt: "Welcome!"
 </table>
 
 <br>
-
+TEST
 ## Hours
 
 **Sunday - Tuesday**   
