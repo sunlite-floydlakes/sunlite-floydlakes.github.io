@@ -6,7 +6,7 @@ excerpt: "Welcome!"
 ---
 ### Award winning burgers & friendly service!
 
-<blockquote class="ludwig">Sunlite is a family owned and operated bar and grill best known for our fresh hand-pattied beef, elk, and bison burgers. We are situated between Big and Little Floyd Lakes (map below).</blockquote>
+<p>Sunlite is a family owned and operated bar and grill best known for our fresh hand-pattied beef, elk, and bison burgers. We are situated between Big and Little Floyd Lakes (map below).</p>
 
 
 
