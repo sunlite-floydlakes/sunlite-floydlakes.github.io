@@ -19,19 +19,19 @@ excerpt: "Welcome!"
 <table class="tg">  
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><font color="01BBF2" size="10px">#1</font> Bar</td>
+    <td class="tg-0pkyl"><font color="01BBF2" size="+10px">#1</font> Bar</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><font color="01BBF2" size="10px">#1</font> Burger </td>
+    <td class="tg-0pkyl"><font color="01BBF2" size="+10px">#1</font> Burger </td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><font color="01BBF2" size="20px">#1</font>  Drink</td>
+    <td class="tg-0pkyl"><font color="01BBF2" size="+20px">#1</font>  Drink</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><font color="01BBF2" size="20px">#1</font>  Small Business to Work For</td>
+    <td class="tg-0pkyl"><font color="01BBF2" size="+20px">#1</font>  Small Business to Work For</td>
   </tr>
    <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
@@ -40,7 +40,6 @@ excerpt: "Welcome!"
 </table>
 
 <br>
-TEST
 
 ## Hours
 
