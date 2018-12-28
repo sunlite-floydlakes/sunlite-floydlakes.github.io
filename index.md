@@ -4,7 +4,7 @@ feature_text: ""
 feature_image: "/assets/building_front_summer.jpg"
 excerpt: "Welcome!"
 ---
-## Sunlite at a Glance
+## <font color="DC9632">Sunlite at a Glance</font>
 A family owned and operated bar and grill best known for our fresh hand-pattied beef, elk, and bison burgers. We are situated between Big and Little Floyd Lakes (map below).
 
 ### Award winning burgers & friendly service
