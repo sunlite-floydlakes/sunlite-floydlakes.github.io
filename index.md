@@ -30,7 +30,7 @@ excerpt: "Welcome!"
     <td class="tg-0pkys">#1 Drink</td>
   </tr>
   <tr>
-    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" width="20%"></td>
+    <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
     <td class="tg-0pkys">#1 Small Business to Work For</td>
   </tr>
    <tr>
