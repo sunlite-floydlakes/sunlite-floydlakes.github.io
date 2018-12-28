@@ -19,11 +19,11 @@ excerpt: "Welcome!"
 <table class="tg">  
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><font color="01BBF2" size="40">#1</font> Bar</td>
+    <td class="tg-0pkyl"><font color="01BBF2" size="30">#1</font> <font color="01BBF2" size="20">Bar</font></td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><font color="01BBF2" size="40">#1</font>  Burger</td>
+    <td class="tg-0pkyl"><font color="01BBF2" size="30">#1</font>  <font color="black" size="20">Burger</font></td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
