@@ -11,19 +11,19 @@ excerpt: "Welcome!"
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;}
-.tg td{font-family:'"Merriweather", serif';font-size:25px;padding:0px 0px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
-.tg th{font-family:'"Merriweather", serif';font-size:25px;font-weight:normal;padding:0px 0px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
+.tg td{font-family:'"Merriweather", serif';font-size:25px;padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
+.tg th{font-family:'"Merriweather", serif';font-size:25px;font-weight:normal;padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
 .tg .tg-0pkyl{border-color:inherit;text-align:left;vertical-align:left}
 .tg .tg-0pkyr{border-color:inherit;text-align:right;vertical-align:right}
 </style>
 <table class="tg">  
    <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\BurgerBrawl2.png"></td>
-    <td class="tg-0pkyl"><ht1><font color="dc9632">Champion</font></ht1> Jalepeno Cream Cheese Burger</td>
+    <td class="tg-0pkyl"><ht1><font color="dc9632">Champion</font></ht1>  Jalepeno Cream Cheese Burger</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><ht1><font color="01BBF2">#1</font></ht1> Bar</td>
+    <td class="tg-0pkyl"><ht1><font color="01BBF2">#1</font></ht1>  Bar</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
@@ -31,7 +31,7 @@ excerpt: "Welcome!"
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><ht1><font color="01BBF2">#1</font></ht1> Drink</td>
+    <td class="tg-0pkyl"><ht1><font color="01BBF2">#1</font></ht1>  Drink</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
