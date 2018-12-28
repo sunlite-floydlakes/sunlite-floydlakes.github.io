@@ -8,14 +8,7 @@ excerpt: "Welcome!"
 
 >Sunlite is a family owned and operated bar and grill best known for fresh hand-pattied beef, elk, and bison burgers.
 
-
-\begin{tabular}{lllll}
- a& b & c &  d& e \\
- a& b & c &  d& e
-\end{tabular}
-
-
-<table align="center" cellspacing="0" cellpadding="0">
+<table text-align=center cellspacing="0" cellpadding="0">
   <tr>
     <th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th>
   </tr>
