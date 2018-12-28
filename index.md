@@ -37,10 +37,6 @@ excerpt: "Welcome!"
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
     <td class="tg-0pkyl"><ht1><font color="01BBF2">#1</font></ht1>  Small Business to Work For</td>
   </tr>
-   <tr>
-    <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><ht1><font color="01BBF2">#2</font></ht1>  Blah, Blah, Blah</td>
-  </tr>
 </table>
 
 <br>
