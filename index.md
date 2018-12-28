@@ -19,7 +19,7 @@ excerpt: "Welcome!"
 <table class="tg">  
    <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\BurgerBrawl2.png"></td>
-    <td class="tg-0pkyl"><ht2><font color="dc9632"> Champion </font></ht2>  Bacon Jalepeno Cream Cheese Burger</td>
+    <td class="tg-0pkyl"><h2><font color="dc9632"> Champion </font></h2>  Bacon Jalepeno Cream Cheese Burger</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
