@@ -22,28 +22,20 @@ excerpt: "Welcome!"
     <td class="tg-0pkyl">#1 Bar/Club</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><img src="\assets\bestoflakes.png" width="20%"></td>
-    <td class="tg-0pky">#1 Burger</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" width="20%"></td>
+    <td class="tg-0pkys">#1 Burger</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><img src="\assets\bestoflakes.png" width="20%"></td>
-    <td class="tg-0pky">#1 Drink</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" width="20%"></td>
+    <td class="tg-0pkys">#1 Drink</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><img src="\assets\bestoflakes.png" width="20%"></td>
-    <td class="tg-0pky">#1 Small Business to Work For</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" width="20%"></td>
+    <td class="tg-0pkys">#1 Small Business to Work For</td>
   </tr>
    <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><img src="\assets\bestoflakes.png" width="20%"></td>
-    <td class="tg-0pky">RUNNER UP Blah, Blah, Blah</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" width="20%"></td>
+    <td class="tg-0pkys">RUNNER UP Blah, Blah, Blah</td>
   </tr>
 </table>
 
