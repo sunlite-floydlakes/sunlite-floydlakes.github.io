@@ -19,23 +19,23 @@ excerpt: "Welcome!"
 <table class="tg">  
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkys">#1 Bar</td>
+    <td class="tg-0pkyl">#1 Bar</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkys">#1 Burger</td>
+    <td class="tg-0pkyl">#1 Burger</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkys">#1 Drink</td>
+    <td class="tg-0pkyl">#1 Drink</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkys">#1 Small Business to Work For</td>
+    <td class="tg-0pkyl">#1 Small Business to Work For</td>
   </tr>
    <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkys">RUNNER UP Blah, Blah, Blah</td>
+    <td class="tg-0pkyl">RUNNER UP Blah, Blah, Blah</td>
   </tr>
 </table>
 
