@@ -24,7 +24,7 @@ excerpt: "Welcome!"
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><img src="\assets\bestoflakes.png"></td>
+    <td class="tg-0pky"><img src="\assets\bestoflakes.png" width="10%"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">c</td>
