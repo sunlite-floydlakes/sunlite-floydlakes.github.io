@@ -58,7 +58,7 @@ a {
   }
 
   // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
-  h1, h2, h3, h4, h5, h6, ht2 {
+  h1, h2, h3, h4, h5, h6 {
     color: $headingColour;
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
@@ -74,6 +74,15 @@ a {
     font-weight: map-get($headingtype, bold);
     display: inline;
   }
+  
+  ht2 {
+    color: $headingColour;
+    font-family: unquote(map-get($headingtype, font-family));
+    font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
+    font-style: normal;
+    font-weight: map-get($headingtype, bold);
+    margin-bottom: .2em;
+  }
  
  
   
@@ -83,7 +92,7 @@ a {
   }
   
   ht2, .beta {
-    @include sassline($fontsize: beta, $font: $headingtype, $lineheight: 3, $below: 0, $breakpoint: all);
+    @include sassline($fontsize: beta, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
   }
 
   // Heading level 1.
