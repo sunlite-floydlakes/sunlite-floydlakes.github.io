@@ -35,7 +35,7 @@ excerpt: "Welcome!"
   </tr>
    <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><font color="01BBF2" size="30">#1</font>  Blah, Blah, Blah</td>
+    <td class="tg-0pkyl"><font color="01BBF2" size="30">Runner Up:</font>  Blah, Blah, Blah</td>
   </tr>
 </table>
 
