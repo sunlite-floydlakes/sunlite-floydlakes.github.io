@@ -7,7 +7,7 @@ excerpt: "Welcome!"
 ## Sunlite at a Glance
 A family owned and operated bar and grill. We are situated between Big and Little Floyd Lakes (map below).   
 
-| <img src="\assets\snowmobile.jpg" height="50%"> | We are just off the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) |
+| <img src="\assets\snowmobile.png" height="50%"> | We are just off the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) |
 
 ### Award winning burgers & friendly faces
 
