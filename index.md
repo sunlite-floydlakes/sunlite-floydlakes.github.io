@@ -19,7 +19,7 @@ excerpt: "Welcome!"
 <table class="tg">  
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl">#1 Bar/Club</td>
+    <td class="tg-0pkys">#1 Bar</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
