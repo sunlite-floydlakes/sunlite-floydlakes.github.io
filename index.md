@@ -4,11 +4,12 @@ feature_text: ""
 feature_image: "/assets/building_front_summer.jpg"
 excerpt: "Welcome!"
 ---
-## Award winning burgers & friendly service!
+<p align="center">
+## Award winning burgers & friendly service
+</p>
 
 >Sunlite is a family owned and operated bar and grill best known for fresh hand-pattied beef, elk, and bison burgers.
 
-<body style="text-align:center;">
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th>
