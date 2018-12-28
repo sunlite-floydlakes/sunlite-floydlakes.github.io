@@ -58,7 +58,7 @@ a {
   }
 
   // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h3, h4, h5, h6, ht2 {
     color: $headingColour;
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
@@ -75,10 +75,15 @@ a {
     display: inline;
   }
  
+ 
   
   // Table Heading 1.
   ht1, .beta {
     @include sassline($fontsize: beta, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
+  }
+  
+  ht2, .beta {
+    @include sassline($fontsize: beta, $font: $headingtype, $lineheight: 3, $below: 0, $breakpoint: all);
   }
 
   // Heading level 1.
