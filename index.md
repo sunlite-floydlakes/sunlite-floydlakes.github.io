@@ -13,14 +13,13 @@ excerpt: "Welcome!"
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:0px 5px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
-.tg .tg-0pky{border-color:inherit;text-align:center;vertical-align:center}
+.tg .tg-0pkyl{border-color:inherit;text-align:center;vertical-align:left}
+.tg .tg-0pkyr{border-color:inherit;text-align:center;vertical-align:right}
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><img src="\assets\bestoflakes.png" width="20%"></td>
-    <td class="tg-0pky">#1 Bar/Club</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" width="20%"></td>
+    <td class="tg-0pkyl">#1 Bar/Club</td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
