@@ -46,6 +46,8 @@ excerpt: "Welcome!"
   </tr>
 </table>
 
+<br>
+
 ## Hours
 
 **Sunday - Tuesday**   
