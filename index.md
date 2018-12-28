@@ -6,7 +6,8 @@ excerpt: "Welcome!"
 ---
 
 ### Award winning burgers & friendly faces
-A family owned and operated bar and grill serving award winning burgers and cold beer. Just off the 'Richwood North' snowmobile trail!</span> <br>
+Sunlite is a family owned and operated bar and grill. We are situated between Big and Little Floyd Lakes (map below) and just off the 'Richwood North' snowmobile trail!</span> <br>
+
 
 
 ## Hours
