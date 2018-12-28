@@ -18,7 +18,7 @@ excerpt: "Welcome!"
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" width="20%"></td>
+    <td class="tg-0pkyr"><img src="\assets\bestoflakes.png" height="30" width="30"></td>
     <td class="tg-0pkyl">#1 Bar/Club</td>
   </tr>
   <tr>
