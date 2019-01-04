@@ -9,6 +9,16 @@ excerpt: "Welcome!"
 <font color="dc9632">Please excuse us while we make updates to our website.</font>
 <br>
 
+### Hours
+
+**Sunday - Tuesday**   
+&nbsp; &nbsp; 10:30am - 9:00pm  
+**Wednesday**   
+&nbsp; &nbsp; 10:30am - midnight  
+**Thursday - Saturday**   
+&nbsp; &nbsp; 10:30am - 1:00am  
+
+
 ### Award winning burgers & friendly service
 
 >Sunlite is a family owned and operated bar and grill best known for fresh hand-pattied beef, elk, and bison burgers.
@@ -45,15 +55,6 @@ excerpt: "Welcome!"
 </table>
 
 <br>
-
-### Hours
-
-**Sunday - Tuesday**   
-&nbsp; &nbsp; 10:30am - 9:00pm  
-**Wednesday**   
-&nbsp; &nbsp; 10:30am - midnight  
-**Thursday - Saturday**   
-&nbsp; &nbsp; 10:30am - 1:00am  
 
 
 
