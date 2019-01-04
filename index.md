@@ -4,10 +4,8 @@ feature_text: ""
 feature_image: "/assets/building_front_summer.jpg"
 excerpt: "Welcome!"
 ---
-
 <h2><font color="dc9632"> Website under construction! </font></h2>
 <font color="dc9632">Please excuse us while we make updates to our website.</font>
-<br>
 
 ### Hours
 
