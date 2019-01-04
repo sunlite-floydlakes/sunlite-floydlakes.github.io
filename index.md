@@ -31,7 +31,7 @@ excerpt: "Welcome!"
 <table class="tg">  
    <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\BurgerBrawl2.png"></td>
-      <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Jalepeno Cream Cheese Burger </td> 
+      <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Jalape&#241;o Cream Cheese Burger </td> 
   </tr>
   <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes.png"></td>
