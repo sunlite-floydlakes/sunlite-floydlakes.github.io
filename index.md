@@ -16,19 +16,19 @@ excerpt: "Welcome!"
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;}
-.tg td{font-family:'"Merriweather", serif';font-size: 22px; padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
-.tg th{font-family:'"Merriweather", serif';font-size: 22px; font-weight:normal;padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
+.tg td{font-family:'"Merriweather", serif';font-size: 23px; padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
+.tg th{font-family:'"Merriweather", serif';font-size: 23px; font-weight:normal;padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
 .tg .tg-0pkyl{border-color:inherit;text-align:left;vertical-align:left}
 .tg .tg-0pkyr{border-color:inherit;text-align:right;vertical-align:right}
 </style>
 <table class="tg">  
    <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\BurgerBrawl2.png"></td>
-      <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h8> <h6> Bacon Jalepeno Cream Cheese Burger </h8> </td> 
+      <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Jalepeno Cream Cheese Burger </td> 
   </tr>
   <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7> <h8> Bar </h8></td>
+    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7> Bar </td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes.png"></td>
@@ -36,11 +36,11 @@ excerpt: "Welcome!"
   </tr>
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><h8><font color="01BBF2">#1</font></h8>  Drink</td>
+    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h8>  Drink</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><h8><font color="01BBF2">#1</font></h8>  Small Business to Work For</td>
+    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h8>  Small Business to Work For</td>
   </tr>
 </table>
 
