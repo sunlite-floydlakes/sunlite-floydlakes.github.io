@@ -31,12 +31,11 @@ excerpt: "Welcome!"
 
 </style>
 
-<body>
+
 <section, id = "ABC">
-      TEST </br>
       TEST
 </section>
-</body> 
+
 
 ### Award winning burgers & friendly service
 
