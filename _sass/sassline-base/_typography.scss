@@ -66,7 +66,7 @@ a {
     font-weight: map-get($headingtype, bold);
   }
   
-  ht1 {
+  h7 {
     color: $headingColour;
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
@@ -75,23 +75,24 @@ a {
     display: inline;
   }
   
-  ht2 {
+  h8 {
     color: $headingColour;
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, bold);
-    margin-bottom: .2;
+    margin-bottom: 0;
+    margin-top: 0;
   }
  
  
   
   // Table Heading 1.
-  ht1, .beta {
+  h7, .beta {
     @include sassline($fontsize: beta, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
   }
   
-  ht2, .beta {
+  h8, .beta {
     @include sassline($fontsize: beta, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
   }
 
