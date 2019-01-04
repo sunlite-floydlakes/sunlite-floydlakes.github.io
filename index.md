@@ -24,7 +24,7 @@ tEST
 <table class="tg">  
    <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\BurgerBrawl2.png"></td>
-    <td class="tg-0pkyl"><h8><font color="dc9632"> Champion </font></h8>  Bacon Jalepeno Cream Cheese Burger</td>
+    <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4>  \vspace{-5mm} Bacon Jalepeno Cream Cheese Burger</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="20%"><img src="\assets\bestoflakes.png"></td>
