@@ -9,7 +9,7 @@ excerpt: "Welcome!"
 <font color="dc9632">Please excuse us while we make updates to our website.</font>
 <br>
 
-## Award winning burgers & friendly service
+### Award winning burgers & friendly service
 
 >Sunlite is a family owned and operated bar and grill best known for fresh hand-pattied beef, elk, and bison burgers.
 
@@ -45,7 +45,7 @@ excerpt: "Welcome!"
 
 <br>
 
-## Hours
+### Hours
 
 **Sunday - Tuesday**   
 &nbsp; &nbsp; 10:30am - 9:00pm  
@@ -56,7 +56,7 @@ excerpt: "Welcome!"
 
 
 
-## Find us
+### Find us
 
 | <img src="\assets\snowmobile.png" style="width: 200px; height: 100px"> | &nbsp; | We are just off the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) |   
 
