@@ -36,11 +36,11 @@ excerpt: "Welcome!"
   </tr>
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h8>  Drink</td>
+    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7>  Drink</td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h8>  Small Business to Work For</td>
+    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7>  Small Business to Work For</td>
   </tr>
 </table>
 
