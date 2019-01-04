@@ -18,8 +18,6 @@ excerpt: "Welcome!"
 **Thursday - Saturday**   
 &nbsp; &nbsp; 10:30am - 1:00am  
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-
 ### Award winning burgers & friendly service
 
 >Sunlite is a family owned and operated bar and grill best known for fresh hand-pattied beef, elk, and bison burgers.
@@ -57,7 +55,6 @@ excerpt: "Welcome!"
 
 <br>
 
-</div>
 
 ### Find us
 
