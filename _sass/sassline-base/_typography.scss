@@ -81,8 +81,8 @@ a {
     @include sassline($fontsize: beta, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
   }
   
-  h8, .delta {
-    @include sassline(delta, $headingtype, 2, 0, all);
+  h8, .zeta {
+    @include sassline(zeta, $headingtype, 2, 0, all);
   }
 
 
