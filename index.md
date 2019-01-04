@@ -7,7 +7,7 @@ excerpt: "Welcome!"
 <h2><font color="dc9632"> Website under construction! </font></h2>
 <font color="dc9632">Please excuse us while we make updates to our website.</font>
 
-### Hours
+## Hours
 
 **Sunday - Tuesday**   
 &nbsp; &nbsp; 10:30am - 9:00pm  
