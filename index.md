@@ -22,7 +22,7 @@ excerpt: "Welcome!"
 
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;}
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;background-color:blue}
 .tg td{font-family:'"Merriweather", serif';font-size: 23px; padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
 .tg th{font-family:'"Merriweather", serif';font-size: 23px; font-weight:normal;padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
 .tg .tg-0pkyl{border-color:inherit;text-align:left;vertical-align:left}
@@ -54,7 +54,7 @@ excerpt: "Welcome!"
 <br>
 
 
-### Find us
+## Find us
 
 | <img src="\assets\snowmobile.png" style="width: 200px; height: 100px"> | &nbsp; | We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) |   
 
