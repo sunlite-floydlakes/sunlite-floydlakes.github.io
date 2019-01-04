@@ -17,8 +17,8 @@ test
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;}
-.tg td{font-family:'"Merriweather", serif';font-size:20px;padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
-.tg th{font-family:'"Merriweather", serif';font-size:20px;font-weight:normal;padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
+.tg td{font-family:'"Merriweather", serif';font-size: zeta;padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
+.tg th{font-family:'"Merriweather", serif';font-size: zeta;font-weight:normal;padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
 .tg .tg-0pkyl{border-color:inherit;text-align:left;vertical-align:left}
 .tg .tg-0pkyr{border-color:inherit;text-align:right;vertical-align:right}
 </style>
