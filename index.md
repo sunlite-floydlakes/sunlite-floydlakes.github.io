@@ -29,19 +29,15 @@ excerpt: "Welcome!"
       width: 100%;
     }
 
-body{
-      background: grey;
-      margin: 0;
-    } 
-
 </style>
-  
+
+<body>
 <section, id = "ABC">
-TEST
-## TEST
-test
+      TEST </br>
+      TEST
 </section>
-    
+</body> 
+
 ### Award winning burgers & friendly service
 
 >Sunlite is a family owned and operated bar and grill best known for fresh hand-pattied beef, elk, and bison burgers.
