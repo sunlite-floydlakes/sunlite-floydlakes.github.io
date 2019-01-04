@@ -24,11 +24,11 @@ excerpt: "Welcome!"
 <table class="tg">  
    <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\BurgerBrawl2.png"></td>
-      <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> <h6> Bacon Jalepeno Cream Cheese Burger </h6> </td> 
+      <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h8> <h6> Bacon Jalepeno Cream Cheese Burger </h8> </td> 
   </tr>
   <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7> <h6> Bar </h6></td>
+    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7> <h8> Bar </h8></td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes.png"></td>
