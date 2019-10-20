@@ -7,6 +7,10 @@ excerpt: "Welcome!"
 <h2><font color="dc9632"> Website under construction! </font></h2>
 <font color="dc9632">Please excuse us while we make updates to our website.</font>
 
+
+>Sunlite is a family owned and operated bar and grill best known for fresh hand-pattied beef, elk, and bison burgers.
+
+
 ## Hours
 
 **Sunday - Tuesday**   
@@ -17,11 +21,7 @@ excerpt: "Welcome!"
 &nbsp; &nbsp; 10:30am - 1:00am  
 
    
-### Award winning burgers & friendly service
-
->Sunlite is a family owned and operated bar and grill best known for fresh hand-pattied beef, elk, and bison burgers.
-
-
+## Award winning burgers & friendly service
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;}
 .tg td{font-family:'"Merriweather", serif';font-size: 23px; padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
@@ -29,15 +29,21 @@ excerpt: "Welcome!"
 .tg .tg-0pkyl{border-color:inherit;text-align:left;vertical-align:left}
 .tg .tg-0pkyr{border-color:inherit;text-align:right;vertical-align:right}
 </style>
+
+#### 2019
 <table class="tg">  
   <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
       <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Cheese Burger </td> 
   </tr>
   <tr>
-    <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2019.png"></td>
-    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7> Best Burger </td>
+    <td class="tg-0pkyr" width="16%"><img src="\assets\bestoflakes2019.png"></td>
+    <td class="tg-0pkyl"><h4><font color="01BBF2">#1</font></h4> Burger </td>
   </tr>
+</table>
+
+#### 2018
+<table class="tg">  
    <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
       <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Jalape&#241;o Cream Cheese Burger </td> 
