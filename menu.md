@@ -1,8 +1,6 @@
 ---
 title: Menu
-feature_text: |
-  | (218) 847-4622
-  | Call for carry out orders and reservations for large parties.
+feature_text: #
 feature_image: "/assets/building_windows_crop.jpg"
 excerpt: "TEST"
 aside: true
