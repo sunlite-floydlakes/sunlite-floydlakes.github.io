@@ -12,7 +12,7 @@ excerpt: "Coming Soon!"
 .column {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 15px;
 }
 
 /* Clearfix (clear floats) */
@@ -23,8 +23,32 @@ excerpt: "Coming Soon!"
 }
 </style>
 
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
+<h2>Merchandise</h2>
+<p>Please come visit us for purchase and size availability.</p>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+</div>
 
 <div class="row">
   <div class="column">
