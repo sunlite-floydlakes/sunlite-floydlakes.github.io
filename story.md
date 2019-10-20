@@ -5,7 +5,7 @@ excerpt: "About Us"
 
 Wayne and Kathy celebrate 20 years of ownership in 2019!
 
-<img src="20years.png">
+<img src="\assets\20years.png">
 
 <br>
 
