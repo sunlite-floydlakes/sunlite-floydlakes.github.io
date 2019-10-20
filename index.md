@@ -73,7 +73,7 @@ excerpt: "Welcome!"
 
 <br>
 
-
+<hr>
 
 ## Find us
 
