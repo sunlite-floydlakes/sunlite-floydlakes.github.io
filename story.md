@@ -7,7 +7,7 @@ Wayne and Kathy celebrate 20 years of ownership in 2019!
 
 <figure>
   <img src="\assets\20years.png">
-  <figcaption> <font size="2"> <i> Test caption. </i> </font> </figcaption>
+  <figcaption> <font size="2"> <i> LEFT: Brady, Katie, Kathy, Wayne, &amp; Amy on the Sunlite deck. RIGHT: Wayne and Kathy celebrating 20 years of ownership. </i> </font> </figcaption>
 </figure>
 
 
