@@ -7,8 +7,6 @@ Wayne and Kathy celebrate 20 years of ownership in 2019!
 
 <img src="\assets\20years.png">
 
-<br>
-
 Sunlite, a long time staple of the Detroit Lakes community, features a full service restaurant and bar as well as a small grocery store that is open year round.
 
 We provide boat access for all of the Floyd Lakes, and customers can enjoy a lakeside meal on the restaurant's deck during the summer.
