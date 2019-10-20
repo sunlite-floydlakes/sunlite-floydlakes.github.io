@@ -3,7 +3,7 @@ title: ''
 excerpt: "About Us"
 ---
 
-<strong> <font size="4"> Wayne and Kathy celebrate 20 years of ownership in 2019! </font> </strong>
+<strong> <font size="5"> Wayne and Kathy celebrate 20 years of ownership in 2019! </font> </strong>
 
 <figure>
   <img src="\assets\20years.png">
