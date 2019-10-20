@@ -5,7 +5,11 @@ excerpt: "About Us"
 
 Wayne and Kathy celebrate 20 years of ownership in 2019!
 
-<img src="\assets\20years.png">
+<figure>
+  <img src="\assets\20years.png">
+  <figcaption> Test caption.</figcaption>
+</figure>
+
 
 Sunlite, a long time staple of the Detroit Lakes community, features a full service restaurant and bar as well as a small grocery store that is open year round.
 
