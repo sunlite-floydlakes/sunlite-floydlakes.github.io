@@ -98,8 +98,7 @@ navigation_header:
   About Us: /story/
   #Crawdad's Landing: /landing/
 
-navigation_footer: |
-  | Call us at (218) 847-4622
+navigation_footer: # nothing
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
