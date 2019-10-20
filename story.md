@@ -3,7 +3,7 @@ title: ''
 excerpt: "About Us"
 ---
 
-Wayne and Kathy celebrate 20 years of ownership in 2019!
+### Wayne and Kathy celebrate 20 years of ownership in 2019!
 
 <figure>
   <img src="\assets\20years.png">
