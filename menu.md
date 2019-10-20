@@ -9,8 +9,8 @@ aside: true
 ---
 
 
-<img src="\assets\menu_page1.jpg">
-<img src="\assets\menu_page2.jpg">
-<img src="\assets\menu_page3.jpg">
+<img src="\assets\menupage1.jpg">
+<img src="\assets\menupage2.jpg">
+<img src="\assets\menupage3.jpg">
 
 
