@@ -77,7 +77,8 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Sunlite Bar & Grill" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/cropped_logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Welcome to the website." # Site description and default description, also used in jekyll-seo-tag
+description: | (218) 847-4622
+  | Call ahead for carry out, or large group reseravations. # Site description and default description, also used in jekyll-seo-tag
 url: "https://sunlite-floydlakes.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/sunlite-floydlakes/sunlite-floydlakes.github.io/"
@@ -94,11 +95,10 @@ navigation_header:
   Menu: /menu/
   Specials: /specials/
   Merchandise: /merchandise/
-  Our Story: /story/
+  About Us: /story/
   #Crawdad's Landing: /landing/
 
-navigation_footer:
-  Call us at 218-847-4622 
+navigation_footer: "Call us at (218) 847-4622"
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
