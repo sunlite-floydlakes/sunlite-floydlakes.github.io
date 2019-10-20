@@ -26,6 +26,8 @@ excerpt: "Coming Soon!"
 <h2>Merchandise</h2>
 <p>Please come visit us for purchase and size availability.</p>
 
+<img src="/assets/merchsplash.png" style="width:100%">
+
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
