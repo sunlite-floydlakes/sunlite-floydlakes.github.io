@@ -28,13 +28,13 @@ excerpt: "Coming Soon!"
 
 <div class="row">
   <div class="column">
-    <img src="/assets/merchplaceholder.jpg" style="width:100%">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/merchplaceholder.jpg" style="width:100%">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/merchplaceholder.jpg" style="width:100%">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
   </div>
 </div>
 
