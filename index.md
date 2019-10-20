@@ -31,7 +31,7 @@ excerpt: "Welcome!"
 </style>
 <table class="tg">  
   <tr>
-    <td class="tg-0pkyr" width="18%"><img src="\assets\BurgerBrawl2019.png"></td>
+    <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
       <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Cheese Burger </td> 
   </tr>
   <tr>
@@ -39,7 +39,7 @@ excerpt: "Welcome!"
     <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7> Best Burger </td>
   </tr>
    <tr>
-    <td class="tg-0pkyr" width="18%"><img src="\assets\BurgerBrawl2.png"></td>
+    <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
       <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Jalape&#241;o Cream Cheese Burger </td> 
   </tr>
   <tr>
