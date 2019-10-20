@@ -7,7 +7,7 @@ Wayne and Kathy celebrate 20 years of ownership in 2019!
 
 <figure>
   <img src="\assets\20years.png">
-  <figcaption> Test caption.</figcaption>
+  <figcaption> <font size="2"> <i> Test caption. </i> </font> </figcaption>
 </figure>
 
 
