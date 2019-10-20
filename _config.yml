@@ -97,7 +97,7 @@ navigation_header:
   About Us: /story/
   #Crawdad's Landing: /landing/
 
-navigation_footer: # nothing
+navigation_footer: "TEST" # nothing
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
