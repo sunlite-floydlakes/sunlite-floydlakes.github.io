@@ -15,7 +15,7 @@ Sunlite, a long time staple of the Detroit Lakes community, features a full serv
 
 We provide boat access for all of the Floyd Lakes, and customers can enjoy a lakeside meal on the restaurant's deck during the summer.
 
-Positioned on the Richwood North snowmobile trail, Sunlite offers a full menus of hot toddies in the winter. 
+Positioned on the Richwood North snowmobile trail, Sunlite offers a full menu of hot toddies in the winter. 
 
 We take great pride in being a family friendly restaurant and bar with affordable pricing. We have something for everyone -- indoor and outdoor seating, big screen TVs, bubble hockey, pool tables and other games, candy, ice cream treats, lake access, and snowmobile access.
 
