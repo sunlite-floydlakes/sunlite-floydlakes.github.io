@@ -4,7 +4,7 @@ feature_text: ""
 feature_image: "/assets/building_front_summer_crop.jpg"
 excerpt: "Welcome!"
 ---
-<h2><font color="dc9632"> TEST Website under construction! </font></h2>
+<h2><font color="dc9632"> Website under construction! </font></h2>
 <font color="dc9632">Please excuse us while we make updates to our website.</font>
 
 
@@ -20,6 +20,7 @@ excerpt: "Welcome!"
 **Thursday - Saturday**   
 &nbsp; &nbsp; 10:30am - 1:00am  
 
+<br>
    
 ## Award winning burgers & friendly service
 <style type="text/css">
