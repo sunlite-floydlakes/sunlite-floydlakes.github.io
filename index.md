@@ -1,7 +1,7 @@
 ---
 title: ""
 feature_text: ""
-feature_image: "/assets/building_front_summer.jpg"
+feature_image: "/assets/building_front_summer_crop.jpg"
 excerpt: "Welcome!"
 ---
 <h2><font color="dc9632"> Website under construction! </font></h2>
