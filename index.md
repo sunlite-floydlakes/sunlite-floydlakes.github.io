@@ -37,10 +37,13 @@ excerpt: "Welcome!"
       <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Cheese Burger </td> 
   </tr>
   <tr>
-    <td class="tg-0pkyr" width="16%"><img src="\assets\bestoflakes2019.png"></td>
-    <td class="tg-0pkyl"><h4><font color="01BBF2">#1</font></h4> Burger </td>
+    <td class="tg-0pkyr" width="5%"><img src="\assets\bestoflakes2019.png"></td>
+    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7> Burger </td>
   </tr>
-</table>
+</table>  
+
+<br>
+
 
 #### 2018
 <table class="tg">  
