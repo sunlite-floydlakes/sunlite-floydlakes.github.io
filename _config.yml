@@ -77,8 +77,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Sunlite Bar & Grill" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/cropped_logo.png" # Site logo, also used in jekyll-seo-tag
-description: | (218) 847-4622
-  | Call ahead for carry out, or large group reseravations. # Site description and default description, also used in jekyll-seo-tag
+description: "A family friendly full service bar and grill on Floyd Lakes." # Site description and default description, also used in jekyll-seo-tag
 url: "https://sunlite-floydlakes.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/sunlite-floydlakes/sunlite-floydlakes.github.io/"
