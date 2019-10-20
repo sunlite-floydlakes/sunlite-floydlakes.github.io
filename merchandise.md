@@ -23,11 +23,18 @@ excerpt: "Coming Soon!"
 }
 </style>
 
-<h2>Merchandise</h2>
-<p>Please come visit us for purchase and size availability.</p>
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchsplash.png" style="width:100%">
+  </div>
+  <div class="column">
+    <h2>Merchandise</h2>
+    <p>Please come visit us for purchase and size availability.</p>
+  </div>
+</div>
+<br>
 
-<img src="/assets/merchsplash.png" style="width:100%">
-
+<h3>Sweatshirts</h3>
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
@@ -67,3 +74,53 @@ excerpt: "Coming Soon!"
   </div>
 </div>
 
+<h3>T-Shirts</h3>
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+</div>
+
+
+<h3>Hats</h3>
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+  </div>
+</div>
