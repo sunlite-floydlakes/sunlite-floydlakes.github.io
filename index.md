@@ -30,6 +30,10 @@ excerpt: "Welcome!"
 .tg .tg-0pkyr{border-color:inherit;text-align:right;vertical-align:right}
 </style>
 <table class="tg">  
+  <tr>
+    <td class="tg-0pkyr" width="18%"><img src="\assets\BurgerBrawl2019.png"></td>
+      <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Cheese Burger </td> 
+  </tr>
    <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\BurgerBrawl2.png"></td>
       <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Jalape&#241;o Cream Cheese Burger </td> 
