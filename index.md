@@ -41,9 +41,7 @@ excerpt: "Welcome!"
     <td class="tg-0pkyr" width="5%"><img src="\assets\bestoflakes2019.png"></td>
     <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7> Burger </td>
   </tr>
-</table>  
-
-<br>
+</table>   
 
 
 <h4>2018</h4>
