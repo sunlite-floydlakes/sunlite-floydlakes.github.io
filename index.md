@@ -9,21 +9,19 @@ excerpt: "Welcome!"
 
 <br>
 
->Sunlite is a family owned and operated bar and grill best known for fresh hand-pattied beef, elk, and bison burgers.
+<center> <h3>WELCOME TO SUNLITE BAR &amp; GRILL</h3><br><center>
+<p>Award winning beef, bison, and elk burgers along with affordable, family friendly dining. There's something for everyone! </p>
 
 
 ## Hours
 
-**Sunday - Tuesday**   
-&nbsp; &nbsp; 10:30am - 9:00pm  
-**Wednesday**   
-&nbsp; &nbsp; 10:30am - Midnight  
-**Thursday - Saturday**   
-&nbsp; &nbsp; 10:30am - 1:00am  
+**Sunday - Tuesday** | 10:30am - 9:00pm  
+**Wednesday** | 10:30am - Midnight  
+**Thursday - Saturday** | 10:30am - 1:00am  
 
 <br>
    
-## Award winning burgers & friendly service
+## Award Winning Burgers & Friendly Service
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;}
 .tg td{font-family:'"Merriweather", serif';font-size: 23px; padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
@@ -70,8 +68,6 @@ excerpt: "Welcome!"
     <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7>  Small Business to Work For</td>
   </tr>
 </table>
-
-<br>
 
 <hr>
 
