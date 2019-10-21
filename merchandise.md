@@ -32,6 +32,7 @@ excerpt: "Coming Soon!"
 </table>
 -->
 
+<!--
 <div class="row">
   <div class="column" style="width:35%;padding:5px;">
     <img src="/assets/merchsplash.png" style="width:100%">
@@ -40,6 +41,12 @@ excerpt: "Coming Soon!"
     <h2>MERCHANDISE</h2>  <p>Please come see us for purchase and size availability.</p>
   </div>
 </div>
+-->
+
+<center>
+<img src="/assets/merchsplash.png" style="width:60%">
+<h2>MERCHANDISE</h2><p>Come see us for purchase and size availability.</p>
+</center>
 
 <hr>
 
