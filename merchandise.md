@@ -23,8 +23,12 @@ excerpt: "Coming Soon!"
 }
 </style>
 
-
-| <img src="/assets/merchsplash.png" style="width:100%"> | <h2>Merchandise</h2>  <p>Please come visit us for purchase and size availability.</p> |
+<table style="width:100%">
+  <tr>
+    <th><img src="/assets/merchsplash.png" style="width:50%"></th>
+    <th> <h2>Merchandise</h2>  <p>Please come see us for purchase and size availability.</p> </th> 
+  </tr>
+</table>
 
 <br>
 
