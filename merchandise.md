@@ -44,8 +44,8 @@ excerpt: "Coming Soon!"
 -->
 
 <center>
-<img src="/assets/merchsplash.png" style="width:60%">
 <h2>MERCHANDISE</h2><p>Come see us for purchase and size availability.</p>
+<img src="/assets/merchsplash.png" style="width:55%">
 </center>
 
 <hr>
