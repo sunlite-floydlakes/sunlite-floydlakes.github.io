@@ -89,7 +89,6 @@ excerpt: "Welcome!"
 
 <div class="row">
   <div class="column" style="width: 5%">
-    <img src="\assets\snomobileparking.jpg" style="width:100%">
   </div>
   <div class="column" style="width: 30%">
     <img src="\assets\bigdock.jpeg" style="width:100%">
@@ -101,7 +100,6 @@ excerpt: "Welcome!"
 
 <div class="row">
   <div class="column" style="width: 5%">
-    <img src="\assets\snomobileparking.jpg" style="width:100%">
   </div>
   <div class="column" style="width: 30%">
     <img src="\assets\snomobileparking.jpg" style="width:100%">
