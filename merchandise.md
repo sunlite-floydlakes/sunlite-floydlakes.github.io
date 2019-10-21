@@ -34,7 +34,7 @@ excerpt: "Coming Soon!"
 
 <div class="row">
   <div class="column" style="width:33.33%">
-    <img src="/assets/merchsplash.png" style="width:50%">
+    <img src="/assets/merchsplash.png" style="width:100%">
   </div>
   <div class="column" style="width:66.66%">
     <h2>Merchandise</h2>  <p>Please come see us for purchase and size availability.</p>
@@ -44,7 +44,7 @@ excerpt: "Coming Soon!"
 
 <br>
 
-<h3>SWEARSHIRTS</h3>
+<h3>SWEATSHIRTS</h3>
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
@@ -52,11 +52,11 @@ excerpt: "Coming Soon!"
   </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> TEST </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> HOODED SWEATSHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> TEST </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> HOODED SWEATSHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
   </div>
 </div>
 
