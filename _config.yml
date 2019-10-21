@@ -90,11 +90,11 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-  HOME: /
-  MENU: /menu/
-  SPECIALS: /specials/
-  MERCHANDISE: /merchandise/
-  ABOUT US: /story/
+  Home: /
+  Menu: /menu/
+  Specials: /specials/
+  Merchandise: /merchandise/
+  About Us: /story/
   #Crawdad's Landing: /landing/
 
 navigation_footer: "TEST" # nothing
