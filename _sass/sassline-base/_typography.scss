@@ -98,7 +98,7 @@ a {
 
   // Heading level 3.
   h3, .gamma {
-    @include sassline(gamma, $headingtype, 3, 1, all);
+    @include sassline(gamma, $headingtype, 2, 1, all);
   }
 
   // Heading level 4.
@@ -332,8 +332,8 @@ a {
     background-size: 100% 0.15rem;
     border: 0;
     margin: 0;
-    padding-bottom: 3rem;
-    padding-top: 20rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
   }
 
   // Code block.
