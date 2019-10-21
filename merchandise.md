@@ -23,28 +23,9 @@ excerpt: "Coming Soon!"
 }
 </style>
 
-<!--
-<table style="width:100%">
-  <tr>
-    <th><img src="/assets/merchsplash.png" style="width:50%"></th>
-    <th> <h2>Merchandise</h2>  <p>Please come see us for purchase and size availability.</p> </th> 
-  </tr>
-</table>
--->
-
-<!--
-<div class="row">
-  <div class="column" style="width:35%;padding:5px;">
-    <img src="/assets/merchsplash.png" style="width:100%">
-  </div>
-  <div class="column" style="width:65%">
-    <h2>MERCHANDISE</h2>  <p>Please come see us for purchase and size availability.</p>
-  </div>
-</div>
--->
 
 <center>
-<div><h2>MERCHANDISE</h2><p>Come see us to purchase or check size availability for the apparel. Gift cards are always available in any amount.</p></div>    
+<div><h2>MERCHANDISE</h2><p>Come see us for size availability and to purchase apparel items. Gift cards are always available in any amount.</p></div>    
 <div><img src="/assets/merchsplash.jpeg" style="width:55%;padding-top:10px;"></div>
 </center>
   
