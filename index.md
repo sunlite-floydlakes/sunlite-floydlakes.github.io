@@ -36,12 +36,12 @@ excerpt: "Welcome!"
 <h4>2019</h4>
 <table class="tg">  
   <tr>
-    <td class="tg-0pkyr" width="10%"></td>
+    <td class="tg-0pkyr" width="5%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
     <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5> Bacon Cheese Burger </td> 
   </tr>
   <tr>
-    <td class="tg-0pkyr" width="10%"></td>
+    <td class="tg-0pkyr" width="5%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2019.png"></td>
     <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8> Burger </td>
   </tr>
@@ -52,12 +52,12 @@ excerpt: "Welcome!"
 <h4>2018</h4>
 <table class="tg">  
    <tr>
-    <td class="tg-0pkyr" width="10%"></td>
+    <td class="tg-0pkyr" width="5%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
     <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5> Bacon Jalape&#241;o Cream Cheese Burger </td> 
   </tr>
   <tr>
-    <td class="tg-0pkyr" width="10%"></td>
+    <td class="tg-0pkyr" width="5%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
     <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8> Burger, Bar, Drink, &amp; Small Business to Work For </td>
   </tr>
@@ -82,6 +82,7 @@ excerpt: "Welcome!"
 
 <h3>FIND US</h3>
 
+<!--
 <table class="tg">  
 <tr>
     <td class="tg-0pkyr" width="30%"><img src="\assets\bigdock.jpeg"> </td>
@@ -92,7 +93,9 @@ excerpt: "Welcome!"
     <td class="tg-0pkyl"> We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>. </td> 
 </tr>
 </table> 
+-->
 
+| <img src="\assets\bigdock.jpeg" style="width:50%"> | &nbsp | Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.|
 
 {% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
 
