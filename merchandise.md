@@ -43,10 +43,11 @@ excerpt: "Coming Soon!"
 </div>
 -->
 
-
-<div class="right"><h2>MERCHANDISE</h2>Come see us for purchase and size availability. Gift cards are always available in any amount</div>    
-<div class="left"><img src="/assets/merchsplash.png" style="width:30%;float:left;"></div>
-
+<center>
+<div><h2>MERCHANDISE</h2>Come see us for purchase and size availability. Gift cards are always available in any amount</div>    
+<div><img src="/assets/merchsplash.png" style="width:55%"></div>
+</center>
+  
 <hr>
 
 <h3>SWEATSHIRTS</h3>
