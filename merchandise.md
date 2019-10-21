@@ -44,8 +44,8 @@ excerpt: "Coming Soon!"
 -->
 
 <center>
-<div><h2>MERCHANDISE</h2>Come see us for purchase and size availability. Gift cards are always available in any amount</div>    
-<div><img src="/assets/merchsplash.png" style="width:55%"></div>
+<div><h2>MERCHANDISE</h2>Come see us for purchase and size availability. Gift cards are available in any amount.</div>    
+<div><img src="/assets/merchsplash.jpeg" style="width:55%"></div>
 </center>
   
 <hr>
