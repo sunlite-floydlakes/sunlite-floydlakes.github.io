@@ -82,7 +82,7 @@ a {
   }
   
   h8, .delta {
-    @include sassline(zeta, $headingtype, 2, 0, all);
+    @include sassline(delta, $headingtype, 2, 0, all);
   }
 
 
@@ -332,8 +332,8 @@ a {
     background-size: 100% 0.15rem;
     border: 0;
     margin: 0;
-    padding-bottom: 3rem;
-    padding-top: 10rem;
+    padding-bottom: 1rem;
+    padding-top: 3rem;
   }
 
   // Code block.
