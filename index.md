@@ -52,12 +52,12 @@ excerpt: "Welcome!"
 <h4>2018</h4>
 <table class="tg">  
    <tr>
-    <td class="tg-0pkyr" width="5%"></td>
+    <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
     <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5> Bacon Jalape&#241;o Cream Cheese Burger </td> 
   </tr>
   <tr>
-    <td class="tg-0pkyr" width="5%"></td>
+    <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
     <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8> Burger, Bar, Drink, &amp; Small Business to Work For </td>
   </tr>
