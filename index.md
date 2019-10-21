@@ -34,23 +34,28 @@ excerpt: "Welcome!"
 <h4>2019</h4>
 <table class="tg">  
   <tr>
+    <td class="tg-0pkyr" width="18%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-      <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Cheese Burger </td> 
+    <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Cheese Burger </td> 
   </tr>
   <tr>
-    <td class="tg-0pkyr" width="5%"><img src="\assets\bestoflakes2019.png"></td>
+    <td class="tg-0pkyr" width="18%"></td>
+    <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2019.png"></td>
     <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7> Burger </td>
   </tr>
 </table>   
 
+<br>
 
 <h4>2018</h4>
 <table class="tg">  
    <tr>
+    <td class="tg-0pkyr" width="18%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-      <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Jalape&#241;o Cream Cheese Burger </td> 
+    <td class="tg-0pkyl"><h4><font color="dc9632"> Champion </font></h4> Bacon Jalape&#241;o Cream Cheese Burger </td> 
   </tr>
   <tr>
+    <td class="tg-0pkyr" width="18%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes.png"></td>
     <td class="tg-0pkyl"><h7><font color="dc9632">#1</font></h7> Bar, Burger, Drink, &amp; Small Business to Work For </td>
   </tr>
