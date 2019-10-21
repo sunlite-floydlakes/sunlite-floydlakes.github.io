@@ -7,19 +7,20 @@ excerpt: "Welcome!"
 <h2><font color="dc9632"> Website under construction! </font></h2>
 <font color="dc9632">Please excuse us while we make updates to our website.</font>
 
-<br>
+<hr>
 
-<center> <h3>WELCOME TO SUNLITE BAR &amp; GRILL</h3><br><center>
+<center> <h3>WELCOME TO SUNLITE BAR &amp; GRILL</h3></center>
 <p>Award winning beef, bison, and elk burgers along with affordable, family friendly dining. There's something for everyone! </p>
 
+<hr>
 
 ## Hours
 
-**Sunday - Tuesday** | 10:30am - 9:00pm  
-**Wednesday** | 10:30am - Midnight  
-**Thursday - Saturday** | 10:30am - 1:00am  
+<strong>Sunday - Tuesday</strong> | 10:30am - 9:00pm  
+<strong>Wednesday</strong> | 10:30am - Midnight  
+<strong>Thursday - Saturday</strong> | 10:30am - 1:00am  
 
-<br>
+<hr>
    
 ## Award Winning Burgers & Friendly Service
 <style type="text/css">
