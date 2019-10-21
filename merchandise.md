@@ -23,15 +23,9 @@ excerpt: "Coming Soon!"
 }
 </style>
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/merchsplash.png" style="width:100%">
-  </div>
-  <div class="column">
-    <h2>Merchandise</h2>
-    <p>Please come visit us for purchase and size availability.</p>
-  </div>
-</div>
+
+| <img src="/assets/merchsplash.png" style="width:100%"> | <h2>Merchandise</h2>  <p>Please come visit us for purchase and size availability.</p> |
+
 <br>
 
 <h3>Sweatshirts</h3>
