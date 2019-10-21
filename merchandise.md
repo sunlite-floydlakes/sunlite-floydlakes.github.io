@@ -41,8 +41,7 @@ excerpt: "Coming Soon!"
   </div>
 </div>
 
-
-<br>
+<hr>
 
 <h3>SWEATSHIRTS</h3>
 <div class="row">
@@ -90,6 +89,8 @@ excerpt: "Coming Soon!"
   </div>
 </div>
 
+<hr>
+
 <h3>T-SHIRTS</h3>
 <div class="row">
   <div class="column">
@@ -121,6 +122,7 @@ excerpt: "Coming Soon!"
   </div>
 </div>
 
+<hr>
 
 <h3>HATS</h3>
 <div class="row">
