@@ -75,7 +75,7 @@ excerpt: "Welcome!"
 .column {
   float: left;
   width: 33.33%;
-  padding: 10px;
+  padding: 8px;
 }
 
 /* Clearfix (clear floats) */
@@ -88,8 +88,6 @@ excerpt: "Welcome!"
 
 
 <div class="row">
-  <div class="column" style="width: 3%">
-  </div>
   <div class="column" style="width: 35%">
     <img src="\assets\bigdock.jpeg" style="width:100%">
   </div>
@@ -99,8 +97,6 @@ excerpt: "Welcome!"
 </div>
 
 <div class="row">
-  <div class="column" style="width: 3%">
-  </div>
   <div class="column" style="width: 35%">
     <img src="\assets\snomobileparking.jpg" style="width:100%">
   </div>
