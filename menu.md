@@ -1,5 +1,5 @@
 ---
-title: Menu
+title: MENU
 feature_text: #
 feature_image: "/assets/building_windows_crop.jpg"
 excerpt: "TEST"
