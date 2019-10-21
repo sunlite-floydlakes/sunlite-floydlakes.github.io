@@ -43,7 +43,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="10%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2019.png"></td>
-    <td class="tg-0pkyl"><h4><font color="01BBF2">#1</font></h4> Burger </td>
+    <td class="tg-0pkyl"><h4><font color="dc9632">#1</font></h4> Burger </td>
   </tr>
 </table>   
 
@@ -59,7 +59,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="10%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><h4><font color="dc9632">#1</font></h4> Bar, Burger, Drink, &amp; Small Business to Work For </td>
+    <td class="tg-0pkyl"><h3><font color="dc9632">#1</font></h3> Bar, Burger, Drink, &amp; Small Business to Work For </td>
   </tr>
 </table> 
 
@@ -82,7 +82,9 @@ excerpt: "Welcome!"
 
 <h3>FIND US</h3>
 
-| <img src="\assets\snowmobile.png" style="width: 100%"> | &nbsp; | We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) |   
+| <img src="\assets\snowmobile.png" style="width: 40%"> | &nbsp; | We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) | 
+
+| <img src="\assets\snowmobile.png" style="width: 40%"> | &nbsp; | We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) | 
 
 
 {% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
