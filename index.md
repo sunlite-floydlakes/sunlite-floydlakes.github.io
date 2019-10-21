@@ -82,7 +82,7 @@ excerpt: "Welcome!"
 
 <h3>FIND US</h3>
 
-| <img src="\assets\snowmobile.png" style="width: 10%"> | &nbsp; | We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) |   
+| <img src="\assets\snowmobile.png" style="width: 100%"> | &nbsp; | We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) |   
 
 
 {% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
