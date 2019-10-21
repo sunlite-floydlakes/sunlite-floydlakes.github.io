@@ -70,26 +70,18 @@ excerpt: "Welcome!"
 <table class="tg">  
 <tr>
     <td class="tg-0pkyr" width="5%"> </td>
-    <td class="tg-0pkyr" width="20%"><img src="\assets\bigdock.jpeg"> </td>
-    <td class="tg-0pkyr" width="5%"> </td>
-    <td class="tg-0pkyl" width="70%"> Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</td> 
+    <td class="tg-0pkyr" width="25%"><img src="\assets\bigdock.jpeg"> </td>
+    <td class="tg-0pkyr" width="3%"> </td>
+    <td class="tg-0pkyl" width="72%"> Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</td> 
 </tr>
 <tr>
     <td class="tg-0pkyr" width="5%"> </td>
-    <td class="tg-0pkyr" width="20%"><img src="\assets\snomobileparking.jpg"> </td>
-    <td class="tg-0pkyr" width="5%"> </td>
-    <td class="tg-0pkyl" width="70%"> We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>. </td> 
+    <td class="tg-0pkyr" width="25%"><img src="\assets\snomobileparking.jpg"> </td>
+    <td class="tg-0pkyr" width="3%"> </td>
+    <td class="tg-0pkyl" width="72%"> We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>. <br></td> 
 </tr>
 </table> 
 
-<!--
-<div style="display:inline-block;vertical-align:top;">
-    <img src="\assets\bigdock.jpeg" width="30%">
-</div>
-<div style="display:inline-block;">
-    <div>Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</div>
-</div>
--->
 
 {% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
 
