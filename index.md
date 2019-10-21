@@ -54,12 +54,12 @@ excerpt: "Welcome!"
    <tr>
     <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5> Bacon Jalape&#241;o Cream Cheese Burger </td> 
+    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><p>Bacon Jalape&#241;o Cream Cheese Burger</p></td> 
   </tr>
   <tr>
     <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
-    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8> Burger, Bar, Drink, &amp; Small Business to Work For </td>
+    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8><p>Burger, Bar, Drink, &amp; Small Business to Work For</p></td>
   </tr>
 </table> 
 
