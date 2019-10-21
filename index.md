@@ -89,7 +89,7 @@ excerpt: "Welcome!"
 </tr>
 <tr>
     <td class="tg-0pkyr" width="30%"><img src="\assets\snowmobile.png" style="width: 40%"> </td>
-    <td class="tg-0pkyl"> We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) </td> 
+    <td class="tg-0pkyl"> We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>. </td> 
 </tr>
 </table> 
 
