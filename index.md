@@ -63,49 +63,30 @@ excerpt: "Welcome!"
   </tr>
 </table> 
 
-<!--
-<tr>
-    <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7>  Burger </td>
-  </tr>
-  <tr>
-    <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7>  Drink</td>
-  </tr>
-  <tr>
-    <td class="tg-0pkyr" width="15%"><img src="\assets\bestoflakes.png"></td>
-    <td class="tg-0pkyl"><h7><font color="01BBF2">#1</font></h7>  Small Business to Work For</td>
-  </tr> 
--->
-
 <hr>
 
 <h3>FIND US</h3>
 
-<!--
+
 <table class="tg">  
 <tr>
-    <td class="tg-0pkyr" width="30%"><img src="\assets\bigdock.jpeg"> </td>
-    <td class="tg-0pkyl"> Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</td> 
+    <td class="tg-0pkyl" width="30%"><img src="\assets\bigdock.jpeg"> </td>
+    <td class="tg-0pkyr"> Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</td> 
 </tr>
 <tr>
-    <td class="tg-0pkyr" width="30%"><img src="\assets\snowmobile.png"> </td>
-    <td class="tg-0pkyl"> We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>. </td> 
+    <td class="tg-0pkyl" width="30%"><img src="\assets\snowmobile.png"> </td>
+    <td class="tg-0pkyr"> We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>. </td> 
 </tr>
 </table> 
--->
 
+<!--
 <div style="display:inline-block;vertical-align:top;">
     <img src="\assets\bigdock.jpeg" width="30%">
 </div>
 <div style="display:inline-block;">
     <div>Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</div>
 </div>
-
-<div>
-    <p style="float: left;"> </p>
-    <p></p>
-</div>
+-->
 
 {% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
 
