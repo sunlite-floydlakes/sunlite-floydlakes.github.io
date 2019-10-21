@@ -15,7 +15,7 @@ excerpt: "About Us"
 
 Sunlite, a long time staple of the Detroit Lakes community, is a full service restaurant and bar with a small grocery store that is open year round. Wayne and Kathy both grew up on Floyd Lake and have fond memories of biking to buy candy at Sunlite when they were young. They took ownership of the business in 1999.
 
-Now, we are known for our fun and energetic staff, fresh hand pattied beef burgers, and unique offerings of elk, bison, and veggie burgers.
+We are known for our fun and energetic staff, fresh hand pattied beef burgers, and unique offerings of elk, bison, and veggie burgers.
 
 We take great pride in being a family friendly restaurant and bar with affordable pricing. We have something for everyone -- indoor and outdoor seating, big screen TVs, bubble hockey, pool tables and other games, candy, ice cream treats, and a small grocery with cabin essentials.
 
