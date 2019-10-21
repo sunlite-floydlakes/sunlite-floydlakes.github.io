@@ -33,11 +33,11 @@ excerpt: "Coming Soon!"
 -->
 
 <div class="row">
-  <div class="column" style="width:40%">
-    <img src="/assets/merchsplash.png" style="width:100%">
-  </div>
-  <div class="column" style="width:60%">
+  <div class="column" style="width:50%">
     <h2>MERCHANDISE</h2>  <p>Please come see us for purchase and size availability.</p>
+  </div>
+  <div class="column" style="width:50%">
+    <img src="/assets/merchsplash.png" style="width:100%">
   </div>
 </div>
 
