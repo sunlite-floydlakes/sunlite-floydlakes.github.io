@@ -37,7 +37,7 @@ excerpt: "Coming Soon!"
     <img src="/assets/merchsplash.png" style="width:100%">
   </div>
   <div class="column" style="width:66.66%">
-    <h2>Merchandise</h2>  <p>Please come see us for purchase and size availability.</p>
+    <h2>MERCHANDISE</h2>  <p>Please come see us for purchase and size availability.</p>
   </div>
 </div>
 
