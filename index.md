@@ -14,7 +14,7 @@ excerpt: "Welcome!"
 
 <hr>
 
-<h3>Hours</h3>
+<h3>HOURS</h3>
 
 <strong>Sunday - Tuesday</strong> | 10:30am - 9:00pm  
 <strong>Wednesday</strong> | 10:30am - Midnight  
@@ -22,7 +22,7 @@ excerpt: "Welcome!"
 
 <hr>
    
-<h3>Award Winning Burgers & Friendly Service</h3>
+<h3>AWARD WINNING BURGERS</h3>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;}
 .tg td{font-family:'"Merriweather", serif';font-size: 23px; padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
