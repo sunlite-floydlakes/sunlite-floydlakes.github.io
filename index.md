@@ -83,6 +83,36 @@ excerpt: "Welcome!"
 </table> 
 
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <img src="\assets\bigdock.jpeg" style="width:40%">
+  </div>
+  <div class="column">
+    <p>Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</p>
+  </div>
+</div>
+
+
+
 {% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
 
 <br>
