@@ -85,7 +85,6 @@ excerpt: "Welcome!"
 }
 </style>
 
-<br>
 
 <div class="row">
   <div class="column" style="width: 5%">
