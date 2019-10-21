@@ -66,6 +66,9 @@ excerpt: "Welcome!"
 <hr>
 
 <h3>FIND US</h3>
+
+{% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
+
 <style>
 * {
   box-sizing: border-box;
@@ -107,10 +110,6 @@ excerpt: "Welcome!"
     <p>We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</p>
   </div>
 </div>
-
-
-
-{% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
 
 <br>
 
