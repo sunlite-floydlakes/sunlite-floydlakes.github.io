@@ -87,7 +87,7 @@ body {
   background: $footerBackgroundColor;
   color: $focusColour;
   a {
-    color: $captionColour;
+    color: $focusColour;
     &:hover {
       color: $backgroundColour;
     }
