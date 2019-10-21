@@ -59,7 +59,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="10%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
-    <td class="tg-0pkyl"><h3><font color="dc9632">#1</font></h3> Bar, Burger, Drink, &amp; Small Business to Work For </td>
+    <td class="tg-0pkyl"><h4><font color="dc9632">#1</font></h4> Bar, Burger, Drink, &amp; Small Business to Work For </td>
   </tr>
 </table> 
 
