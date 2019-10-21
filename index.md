@@ -9,12 +9,12 @@ excerpt: "Welcome!"
 
 <hr>
 
-<center> <h3>WELCOME TO SUNLITE BAR &amp; GRILL</h3></center>
-<p>Award winning beef, bison, and elk burgers along with affordable, family friendly dining. There's something for everyone! </p>
+<center> <h2>WELCOME TO SUNLITE BAR &amp; GRILL</h2></center>
+<center><p>Award winning beef, bison, and elk burgers along with affordable, family friendly dining. There's something for everyone! </p></center>
 
 <hr>
 
-## Hours
+<h3>Hours</h3>
 
 <strong>Sunday - Tuesday</strong> | 10:30am - 9:00pm  
 <strong>Wednesday</strong> | 10:30am - Midnight  
@@ -22,7 +22,7 @@ excerpt: "Welcome!"
 
 <hr>
    
-## Award Winning Burgers & Friendly Service
+<h3>Award Winning Burgers & Friendly Service</h3>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;}
 .tg td{font-family:'"Merriweather", serif';font-size: 23px; padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
@@ -31,7 +31,7 @@ excerpt: "Welcome!"
 .tg .tg-0pkyr{border-color:inherit;text-align:right;vertical-align:right}
 </style>
 
-#### 2019
+<h4>2019</h4>
 <table class="tg">  
   <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
@@ -46,7 +46,7 @@ excerpt: "Welcome!"
 <br>
 
 
-#### 2018
+<h4>2018</h4>
 <table class="tg">  
    <tr>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
@@ -75,7 +75,7 @@ excerpt: "Welcome!"
 
 <hr>
 
-## Find us
+<h3>FIND US</h3>
 
 | <img src="\assets\snowmobile.png" style="width: 200px; height: 100px"> | &nbsp; | We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map [here.](http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx) |   
 
