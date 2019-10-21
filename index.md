@@ -91,7 +91,7 @@ excerpt: "Welcome!"
 .column {
   float: left;
   width: 33.33%;
-  padding: 15px;
+  padding: 10px;
 }
 
 /* Clearfix (clear floats) */
@@ -102,20 +102,22 @@ excerpt: "Welcome!"
 }
 </style>
 
+<br>
+
 <div class="row">
-  <div class="column">
+  <div class="column" style="width: 33.33%">
     <img src="\assets\bigdock.jpeg" style="width:40%">
   </div>
-  <div class="column">
+  <div class="column" style="width: 66.66%">
     <p>Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</p>
   </div>
 </div>
 
 <div class="row">
-  <div class="column">
+  <div class="column" style="width: 33.33%">
     <img src="\assets\snowmobileparking.jpg" style="width:40%">
   </div>
-  <div class="column">
+  <div class="column" style="width: 66.66%">
     <p>We are on the 'Richwood North' snowmobile trail. Check out the full Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</p>
   </div>
 </div>
