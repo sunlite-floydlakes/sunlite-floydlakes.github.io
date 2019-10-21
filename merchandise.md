@@ -32,7 +32,7 @@ excerpt: "Coming Soon!"
 
 <br>
 
-<h3>Sweatshirts</h3>
+<h3>SWEARSHIRTS</h3>
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
@@ -72,7 +72,7 @@ excerpt: "Coming Soon!"
   </div>
 </div>
 
-<h3>T-Shirts</h3>
+<h3>T-SHIRTS</h3>
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
@@ -98,7 +98,7 @@ excerpt: "Coming Soon!"
 </div>
 
 
-<h3>Hats</h3>
+<h3>HATS</h3>
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
