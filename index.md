@@ -95,11 +95,12 @@ excerpt: "Welcome!"
 </table> 
 -->
 
-| <img src="\assets\bigdock.jpeg" style="width:50%"> | &nbsp; | Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.|
-
 {% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
 
-
+<div>
+    <p style="float: left;"> <img src="\assets\bigdock.jpeg" width="50%"></p>
+    <p>Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</p>
+</div>
 
 
 
