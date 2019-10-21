@@ -4,13 +4,15 @@ feature_text: ""
 feature_image: "/assets/building_front_summer_crop.jpg"
 excerpt: "Welcome!"
 ---
-<h2><font color="dc9632"> Website under construction! </font></h2>
-<font color="dc9632">Please excuse us while we make updates to our website.</font>
 
-<hr>
 
 <center> <h2>WELCOME TO SUNLITE BAR &amp; GRILL</h2></center>
 <center><p>Award winning beef, bison, and elk burgers along with affordable, family friendly dining. There's something for everyone! </p></center>
+
+<hr>
+
+<h2><font color="dc9632"> WEBSITE UNDER CONSTRUCTION! </font></h2>
+<font color="dc9632">Please excuse us while we make updates to our website.</font>
 
 <hr>
 
