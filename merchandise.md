@@ -33,7 +33,7 @@ excerpt: "Coming Soon!"
 -->
 
 <div class="row">
-  <div class="column" style="width:42%">
+  <div class="column" style="width:42%;padding:5px;">
     <img src="/assets/merchsplash.png" style="width:100%">
   </div>
   <div class="column" style="width:58%">
