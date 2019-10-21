@@ -23,25 +23,21 @@ excerpt: "Coming Soon!"
 }
 </style>
 
+<!--
 <table style="width:100%">
   <tr>
     <th><img src="/assets/merchsplash.png" style="width:50%"></th>
     <th> <h2>Merchandise</h2>  <p>Please come see us for purchase and size availability.</p> </th> 
   </tr>
 </table>
+-->
 
 <div class="row">
-  <div class="column">
+  <div class="column" style="width:33.33%">
     <img src="/assets/merchsplash.png" style="width:50%">
-    <figcaption> <font size="2"> <i> HOODED SWEATSHIRT -- &#36;25.00 </i> </font> </figcaption>
   </div>
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> TEST </i> </font> </figcaption>
-  </div>
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> TEST </i> </font> </figcaption>
+  <div class="column" style="width:66.66%">
+    <h2>Merchandise</h2>  <p>Please come see us for purchase and size availability.</p>
   </div>
 </div>
 
@@ -52,7 +48,7 @@ excerpt: "Coming Soon!"
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> TEST </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> HOODED SWEATSHIRT -- &#36;25.00 </i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
