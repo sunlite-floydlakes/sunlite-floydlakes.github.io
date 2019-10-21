@@ -1,7 +1,7 @@
 ---
 title: MENU
 feature_text: #
-feature_image: "/assets/building_windows_crop.jpg"
+feature_image: "/assets/building_windows_crop_edit.jpg"
 excerpt: "TEST"
 aside: true
 ---
