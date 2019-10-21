@@ -95,7 +95,7 @@ excerpt: "Welcome!"
 </table> 
 -->
 
-<div style="float: left;display:inline-block;vertical-align:top;">
+<div style="display:inline-block;vertical-align:top;">
     <img src="\assets\bigdock.jpeg" width="30%">
 </div>
 <div style="display:inline-block;">
