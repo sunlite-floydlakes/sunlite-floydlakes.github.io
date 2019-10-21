@@ -43,7 +43,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="10%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2019.png"></td>
-    <td class="tg-0pkyl"><h7><font color="dc9632">#1</font></h7> Burger </td>
+    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8> Burger </td>
   </tr>
 </table>   
 
@@ -59,7 +59,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="10%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
-    <td class="tg-0pkyl"><h7><font color="dc9632">#1</font></h7> Burger, Bar, Drink, &amp; Small Business to Work For </td>
+    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8> Burger, Bar, Drink, &amp; Small Business to Work For </td>
   </tr>
 </table> 
 
