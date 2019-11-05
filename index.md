@@ -79,6 +79,12 @@ excerpt: "Welcome!"
   vertical-align: middle;
 }
 
+.column p {
+  display: table-cell; 
+  vertical-align: middle; 
+  text-align: center;
+}
+
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
