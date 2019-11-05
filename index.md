@@ -72,16 +72,11 @@ excerpt: "Welcome!"
   box-sizing: border-box;
 }
 
-.floating p {
-  display: table-cell; 
-  vertical-align: middle; 
-  text-align: left;
-}
-
 .column {
   float: left;
   width: 33.33%;
   padding: 8px;
+  vertical-align: middle;
 }
 
 /* Clearfix (clear floats) */
