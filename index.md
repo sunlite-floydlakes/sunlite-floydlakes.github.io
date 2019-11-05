@@ -54,12 +54,12 @@ excerpt: "Welcome!"
    <tr>
     <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><p>Bacon Jalape&#241;o Cream Cheese Burger</p></td> 
+    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5> Bacon Jalape&#241;o Cream Cheese Burger</td> 
   </tr>
   <tr>
     <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
-    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8>Burger, Bar, Drink, &amp; Small Business to Work For</td>
+    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8> Burger, Bar, Drink, &amp; Small Business to Work For</td>
   </tr>
 </table> 
 
@@ -92,7 +92,7 @@ excerpt: "Welcome!"
     <img src="\assets\bigdock.jpeg" style="width:100%">
   </div>
   <div class="column" style="width: 63%">
-    <p>Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</p>
+    <p>Dock access on both sides of Richwood Road.</p>
   </div>
 </div>
 
@@ -101,7 +101,7 @@ excerpt: "Welcome!"
     <img src="\assets\snomobileparking.jpg" style="width:100%">
   </div>
   <div class="column" style="width: 63%">
-    <p>We are on the 'Richwood North' snowmobile trail. Check out the Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</p>
+    <p>We're on the 'Richwood North' snowmobile trail <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">(Becker County trail map)</a>.</p>
   </div>
 </div>
 
