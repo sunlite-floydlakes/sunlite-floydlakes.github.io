@@ -54,7 +54,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="5%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2019.png"></td>
-    <td class="tg-0pkyl"><p><font color="dc9632" size=4> #1 </font><strong>Burger</strong> </p></td>
+    <td class="tg-0pkyl"><p><span class="ones"> #1 </span> <strong>Burger</strong> </p></td>
   </tr>
 </table>   
 
