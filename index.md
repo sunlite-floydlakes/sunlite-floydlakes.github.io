@@ -82,7 +82,7 @@ p .smallerlh {
 
 <h3>FIND US</h3>
 
-<br>
+<div style="height:4px;"><br></div>
 
 <style>
 * {
