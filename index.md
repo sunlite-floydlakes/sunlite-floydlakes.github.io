@@ -76,13 +76,6 @@ excerpt: "Welcome!"
   float: left;
   width: 33.33%;
   padding: 8px;
-  vertical-align: middle;
-}
-
-.column p {
-  display: table-cell; 
-  vertical-align: middle; 
-  text-align: center;
 }
 
 /* Clearfix (clear floats) */
