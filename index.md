@@ -107,6 +107,15 @@ excerpt: "Welcome!"
 </table> 
 
 
+{% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
+
+<br>
+
+
+
+
+<!---
+
 <div class="row">
   <div class="column" style="width: 35%">
     <img src="\assets\bigdock.jpeg" style="width:100%">
@@ -125,12 +134,8 @@ excerpt: "Welcome!"
   </div>
 </div>
 
-{% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
-
-<br>
 
 
-<!---
 ## Sunlite at a Glance
 
 - Boat access from both Big, Middle, and Little Floyd Lakes
