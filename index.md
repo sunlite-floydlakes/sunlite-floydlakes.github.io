@@ -33,12 +33,18 @@ excerpt: "Welcome!"
 .tg .tg-0pkyc{border-color:inherit;text-align:left;vertical-align:middle}
 </style>
 
+<style>
+.smallerlh {
+  line-height: 1 ;
+}
+</style>
+
 <h4>2019</h4>
 <table class="tg">  
   <tr>
     <td class="tg-0pkyr" width="5%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><p id="single-spaced">Bacon Cheese Burger</p></td> 
+    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5>Bacon Cheese Burger</td> 
   </tr>
      <tr>
     <th><div style="height:2px;"><br></div></th>
@@ -57,7 +63,7 @@ excerpt: "Welcome!"
    <tr>
     <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5> Bacon Jalape&#241;o Cream Cheese Burger</td> 
+    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><p class="smallerlh"> Bacon Jalape&#241;o Cream Cheese Burger</p></td> 
   </tr>
      <tr>
     <th><div style="height:2px;"><br></div></th>
