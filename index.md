@@ -34,8 +34,8 @@ excerpt: "Welcome!"
 </style>
 
 <style>
-p .smallerlh {
-  line-height: 1;
+.smallerlh {
+  line-height: 0.5;
   margin: 0px;
   padding: 0px;
 }
