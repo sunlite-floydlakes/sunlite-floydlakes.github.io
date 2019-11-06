@@ -111,7 +111,7 @@ excerpt: "Welcome!"
     <img src="\assets\snomobileparking.jpg" style="width:100%">
   </div>
   <div class="column" style="width: 63%">
-    <p>We're on the 'Richwood North' snowmobile trail (<a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">Becker County trail map</a>).</p>
+    <p>On the 'Richwood North' snowmobile trail. Check out the Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</p>
   </div>
 </div>
 
