@@ -44,7 +44,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="5%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><p class="smallerlh"> Bacon Cheese Burger</p></td> 
+    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><p class="smallerlh"> <strong>Bacon Cheese Burger</strong></p></td> 
   </tr>
      <tr>
     <th><div style="height:4px;"><br></div></th>
@@ -52,7 +52,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="5%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2019.png"></td>
-    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8>  Burger </td>
+    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8> <strong>Burger</strong> </td>
   </tr>
 </table>   
 
@@ -63,7 +63,7 @@ excerpt: "Welcome!"
    <tr>
     <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><p class="smallerlh"> Bacon Jalape&#241;o Cream Cheese Burger</p></td> 
+    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><p class="smallerlh"> <strong>Bacon Jalape&#241;o Cream Cheese Burger</strong></p></td> 
   </tr>
      <tr>
     <th></th>
@@ -72,7 +72,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
-    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8><p class="smallerlh">  Burger, Bar, Drink, &amp;Small Business to Work For</p></td>
+    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8><p class="smallerlh"> <strong>Burger, Bar, Drink, &amp;Small Business to Work For</strong></p></td>
   </tr>
 </table> 
 
