@@ -78,6 +78,12 @@ excerpt: "Welcome!"
   padding: 8px;
 }
 
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
 .vertical-center {
   margin: 0;
   position: absolute;
@@ -100,9 +106,11 @@ excerpt: "Welcome!"
     <img src="\assets\bigdock.jpeg" style="width:100%">
   </div>
   <div class="column" style="width: 63%">
+     <div class="container">
      <div class="vertical-center">
         <p>Dock access on both sides of Richwood Road.</p>
      </div>
+   </div>
   </div>
 </div>
 
