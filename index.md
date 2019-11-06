@@ -74,6 +74,8 @@ excerpt: "Welcome!"
 
 <h3>FIND US</h3>
 
+<div style="height:2px;"><br></div>
+
 <style>
 * {
   box-sizing: border-box;
