@@ -80,7 +80,7 @@ excerpt: "Welcome!"
 
 .container {
   height: 200px;
-  position: relative;
+  position: static;
   border: 3px solid green;
 }
 
