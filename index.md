@@ -68,7 +68,7 @@ excerpt: "Welcome!"
     <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><p class="smallerlh"> Bacon Jalape&#241;o Cream Cheese Burger</p></td> 
   </tr>
      <tr>
-    <th><\th>
+    <th></th>
     <th><div style="height:4px;"><br></div></th>
   </tr>
   <tr>
