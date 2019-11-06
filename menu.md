@@ -2,7 +2,7 @@
 title: MENU
 feature_text: #
 feature_image: "/assets/building_windows_crop_edit.jpeg"
-excerpt: "TEST"
+excerpt: ""
 aside: true
 ---
 
