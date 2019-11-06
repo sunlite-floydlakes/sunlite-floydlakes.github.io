@@ -122,7 +122,7 @@ excerpt: "Welcome!"
     <img src="\assets\bigdock.jpeg" style="width:100%">
   </div>
   <div class="column" style="width: 63%">
-        <p>Dock access on both sides of Richwood Road.</p>
+        <p>Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</p>
   </div>
 </div>
 
