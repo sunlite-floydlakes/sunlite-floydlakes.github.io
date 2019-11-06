@@ -78,19 +78,6 @@ excerpt: "Welcome!"
   padding: 8px;
 }
 
-.container {
-  height: 200px;
-  position: static;
-  border: 3px solid green;
-}
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
 
 /* Clearfix (clear floats) */
 .row::after {
