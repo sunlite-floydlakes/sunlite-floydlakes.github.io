@@ -31,6 +31,7 @@ excerpt: "Welcome!"
 .tg th{font-family:'"Merriweather", serif';font-size: 23px; font-weight:normal;padding:0px 3px;border-style:hidden;border-width:1px;overflow:hidden;word-break:normal;border-color:white;}
 .tg .tg-0pkyl{border-color:inherit;text-align:left;vertical-align:left}
 .tg .tg-0pkyr{border-color:inherit;text-align:right;vertical-align:right}
+.tg .tg-0pkyc{border-color:inherit;text-align:left;vertical-align:middle}
 </style>
 
 <h4>2019</h4>
@@ -97,12 +98,16 @@ excerpt: "Welcome!"
 
 <table class="tg">  
    <tr>
-    <td class="tg-0pkyr" width="35%"><img src="\assets\bigdock.jpeg" style="width:100%"></td>
-    <td class="tg-0pkyr" width="63%"><p>Dock access on both sides of Richwood Road.</p></td>
+    <td class="tg-0pkyr" width="2%">  </td>
+    <td class="tg-0pkyr" width="33%"><img src="\assets\bigdock.jpeg" style="width:100%"></td>
+    <td class="tg-0pkyr" width="2%">  </td>
+    <td class="tg-0pkyc" width="60%"><p>Dock access on both sides of Richwood Road.</p></td>
   </tr>
   <tr>
-    <td class="tg-0pkyr" width="35%"><img src="\assets\snomobileparking.jpg" style="width:100%"></td>
-    <td class="tg-0pkyr" width="63%"><p>On the 'Richwood North' snowmobile trail. Check out the Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</p></td>
+    <td class="tg-0pkyr" width="2%">  </td>
+    <td class="tg-0pkyr" width="33%"><img src="\assets\snomobileparking.jpg" style="width:100%"></td>
+    <td class="tg-0pkyr" width="2%">  </td>
+    <td class="tg-0pkyc" width="60%"><p>On the 'Richwood North' snowmobile trail. Check out the Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</p></td>
   </tr>
 </table> 
 
