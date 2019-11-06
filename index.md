@@ -33,7 +33,7 @@ excerpt: "Welcome!"
 .tg .tg-0pkyc{border-color:inherit;text-align:left;vertical-align:middle}
 
 .smallerlh {
-  line-height: .75em;;
+  line-height: .5em;;
   margin: 0px;
   padding: 0px;
 }
