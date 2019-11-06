@@ -78,6 +78,14 @@ excerpt: "Welcome!"
   padding: 8px;
 }
 
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
@@ -91,8 +99,10 @@ excerpt: "Welcome!"
   <div class="column" style="width: 35%">
     <img src="\assets\bigdock.jpeg" style="width:100%">
   </div>
-  <div class="column is-centered" style="width: 63%">
-    <p>Dock access on both sides of Richwood Road.</p>
+  <div class="column" style="width: 63%">
+     <div class="vertical-center">
+        <p>Dock access on both sides of Richwood Road.</p>
+     </div>
   </div>
 </div>
 
@@ -100,7 +110,7 @@ excerpt: "Welcome!"
   <div class="column" style="width: 35%">
     <img src="\assets\snomobileparking.jpg" style="width:100%">
   </div>
-  <div class="column is-centered" style="width: 63%">
+  <div class="column" style="width: 63%">
     <p>We're on the 'Richwood North' snowmobile trail (<a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">Becker County trail map</a>).</p>
   </div>
 </div>
