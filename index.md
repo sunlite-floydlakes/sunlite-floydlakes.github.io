@@ -80,7 +80,7 @@ excerpt: "Welcome!"
 
 <h3>FIND US</h3>
 
-<div style="height:3em;"><br></div>
+<div style="height:2em;"><br></div>
 
 <style>
 * {
