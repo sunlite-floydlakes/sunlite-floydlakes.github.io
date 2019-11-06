@@ -31,11 +31,9 @@ excerpt: "Welcome!"
 .tg .tg-0pkyl{border-color:inherit;text-align:left;vertical-align:left}
 .tg .tg-0pkyr{border-color:inherit;text-align:right;vertical-align:right}
 .tg .tg-0pkyc{border-color:inherit;text-align:left;vertical-align:middle}
-</style>
 
-<style>
 .smallerlh {
-  line-height: 0.5;
+  line-height: .75em;;
   margin: 0px;
   padding: 0px;
 }
@@ -46,7 +44,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="5%"></td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5>Bacon Cheese Burger</td> 
+    <td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><p class="smallerlh"> Bacon Cheese Burger</p></td> 
   </tr>
      <tr>
     <th><div style="height:4px;"><br></div></th>
@@ -74,7 +72,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
-    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8> Burger, Bar, Drink, &amp; Small Business to Work For</td>
+    <td class="tg-0pkyl"><h8><font color="dc9632">#1</font></h8><p class="smallerlh"> Burger, Bar, Drink, &amp;Small Business to Work For</p></td>
   </tr>
 </table> 
 
