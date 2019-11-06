@@ -106,6 +106,7 @@ excerpt: "Welcome!"
   </tr>
 </table> 
 
+<br>
 
 {% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
 
