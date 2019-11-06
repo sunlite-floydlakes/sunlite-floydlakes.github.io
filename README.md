@@ -1,1 +1,1 @@
-Website created with via [Alembic](https://alembic.darn.es/).
+Website created with [Alembic](https://alembic.darn.es/).
