@@ -37,6 +37,8 @@ excerpt: "Welcome!"
   margin: 0px;
   padding: 0px;
 }
+
+.ones { font-weight: bold; color: #dc9632;}
 </style>
 
 <h4>2019</h4>
@@ -72,7 +74,7 @@ excerpt: "Welcome!"
   <tr>
     <td class="tg-0pkyr" width="5%">  </td>
     <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
-    <td class="tg-0pkyl"><p><span style="color:dc9632;size=4"> #1 </span> <strong> Burger, Bar, Drink, &amp; Small Business to Work For</strong></p></td>
+    <td class="tg-0pkyl"><p><span class="ones"> #1 </span> <strong> Burger, Bar, Drink, &amp; Small Business to Work For</strong></p></td>
   </tr>
 </table> 
 
