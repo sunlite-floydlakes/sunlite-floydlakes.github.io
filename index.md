@@ -38,7 +38,7 @@ excerpt: "Welcome!"
   padding: 0px;
 }
 
-.ones {color: #dc9632; font-size: 26px;}
+.ones {color: #dc9632; font-size: 25px;}
 </style>
 
 <h4>2019</h4>
