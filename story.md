@@ -1,9 +1,7 @@
 ---
-title: ''
-excerpt: "About Us"
+title: 'ABOUT US'
+excerpt: ""
 ---
-
-<h2>ABOUT US</h2>
 
 <strong> <font size="5"> Wayne and Kathy celebrate 20 years of ownership in 2019! </font> </strong>
 
