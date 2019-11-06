@@ -106,11 +106,7 @@ excerpt: "Welcome!"
     <img src="\assets\bigdock.jpeg" style="width:100%">
   </div>
   <div class="column" style="width: 63%">
-     <div class="container">
-     <div class="vertical-center">
         <p>Dock access on both sides of Richwood Road.</p>
-     </div>
-   </div>
   </div>
 </div>
 
