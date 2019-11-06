@@ -101,13 +101,13 @@ excerpt: "Welcome!"
     <td class="tg-0pkyr" width="2%">  </td>
     <td class="tg-0pkyr" width="33%"><img src="\assets\bigdock.jpeg" style="width:100%"></td>
     <td class="tg-0pkyr" width="2%">  </td>
-    <td class="tg-0pkyc" width="60%"><p>Dock access on both sides of Richwood Road.</p></td>
+    <td class="tg-0pkyc" width="60%"><p><strong>Dock access on both sides of Richwood Road.</strong></p></td>
   </tr>
   <tr>
     <td class="tg-0pkyr" width="2%">  </td>
     <td class="tg-0pkyr" width="33%"><img src="\assets\snomobileparking.jpg" style="width:100%"></td>
     <td class="tg-0pkyr" width="2%">  </td>
-    <td class="tg-0pkyc" width="60%"><p>On the 'Richwood North' snowmobile trail. Check out the Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</p></td>
+    <td class="tg-0pkyc" width="60%"><p><strong>On the 'Richwood North' snowmobile trail. Check out the Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</strong></p></td>
   </tr>
 </table> 
 
