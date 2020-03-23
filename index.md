@@ -1,10 +1,10 @@
 ---
-title: ""
-feature_text: ""
-feature_image: "/assets/building_front_summer_crop.jpg"
-excerpt: "Welcome!"
+title: HOME PAGE
+feature_text: #
+feature_image: "/assets/building_windows_crop_edit.jpeg"
+excerpt: "Welcome"
+aside: true
 ---
-
 
 <center> <h2>WELCOME TO SUNLITE BAR &amp; GRILL</h2></center>
 <center><p>Award winning beef, bison, and elk burgers along with affordable, family friendly dining. There's something for everyone! </p></center>
