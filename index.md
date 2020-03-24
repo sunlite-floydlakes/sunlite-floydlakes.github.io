@@ -71,3 +71,41 @@ layout: page
 </table> 
 
 <hr>
+
+<h3>FIND US</h3>
+<div style="height:2em;"><br></div>
+<style>
+* {
+box-sizing: border-box;
+}
+.column {
+float: left;
+width: 33.33%;
+padding: 8px;
+}
+/* Clearfix (clear floats) */
+.row::after {
+content: "";
+clear: both;
+display: table;
+}
+</style>
+
+<table class="tg">  
+<tr>
+<td class="tg-0pkyr" width="2%">  </td>
+<td class="tg-0pkyr" width="33%"><img src="\assets\bigdock.jpeg" style="width:100%"></td>
+<td class="tg-0pkyr" width="2%">  </td>
+<td class="tg-0pkyc" width="60%"><p><strong>Dock access on both sides of Richwood Road. Boat up from any of the Floyd lakes!</strong></p></td>
+</tr>
+<tr>
+<td class="tg-0pkyr" width="2%">  </td>
+<td class="tg-0pkyr" width="33%"><img src="\assets\snomobileparking.jpg" style="width:100%"></td>
+<td class="tg-0pkyr" width="2%">  </td>
+<td class="tg-0pkyc" width="60%"><p><strong>On the 'Richwood North' snowmobile trail. Get the trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</strong></p></td>
+</tr>
+</table> 
+<br>
+{% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
+<br>
+
