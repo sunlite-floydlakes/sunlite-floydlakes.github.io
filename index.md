@@ -1,9 +1,8 @@
 ---
-title: HOME PAGE
-feature_text: #
+title: HOME
+feature_text: "TEST"
 feature_image: "/assets/building_windows_crop_edit.jpeg"
 excerpt: "Welcome"
-aside: true
 ---
 
 <center> <h2>WELCOME TO SUNLITE BAR &amp; GRILL</h2></center>
