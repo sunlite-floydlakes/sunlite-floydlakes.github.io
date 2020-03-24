@@ -23,7 +23,10 @@ aside: true
 <strong>Thursday - Saturday</strong> | 10:30am - 1:00am  
 
 <hr>
-   
+ 
+ 
+<!---
+
 <h3>AWARD WINNING BURGERS</h3>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;}
@@ -123,7 +126,7 @@ aside: true
 
 
 
-<!---
+
 
 <div class="row">
   <div class="column" style="width: 35%">
