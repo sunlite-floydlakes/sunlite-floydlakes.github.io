@@ -25,7 +25,7 @@ aside: true
 <hr>
  
  
-
+<!--
 <h3>AWARD WINNING BURGERS</h3>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;float:center;}
@@ -35,7 +35,6 @@ aside: true
 .tg .tg-0pkyc{border-color:inherit;text-align:left;vertical-align:middle}
 .ones { font-weight: bold; color: #dc9632; font-size: 23.5px;}
 </style>
-
 <h4>2019</h4>
 <table class="tg">  
   <tr>
@@ -52,9 +51,7 @@ aside: true
     <td class="tg-0pkyl"><p><span class="ones"> #1 </span> <strong>Burger</strong> </p></td>
   </tr>
 </table>   
-
 <br>
-
 <h4>2018</h4>
 <table class="tg">  
    <tr>
@@ -72,8 +69,8 @@ aside: true
     <td class="tg-0pkyl"><p><span class="ones"> #1 </span> <strong> Burger, Bar, Drink, &amp; Small Business to Work For</strong></p></td>
   </tr>
 </table> 
-
 <hr>
+-->
 
 <!--
 <h3>FIND US</h3>
