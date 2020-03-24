@@ -1,7 +1,7 @@
 ---
 title: |
 feature_text: |
-feature_image: "/assets/building_windows_crop_edit.jpeg"
+feature_image: "/assets/building_front_summer_crop.jpg"
 excerpt: ""
 layout: page
 ---
