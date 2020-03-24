@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: |
 feature_text: |
 feature_image: "/assets/building_windows_crop_edit.jpeg"
 excerpt: ""
@@ -11,7 +11,7 @@ layout: page
 
 <hr>
 
-<h2><font color="dc9632"> WEBSITE UNDER CONSTRUCTION!! </font></h2>
+<h2><font color="dc9632"> WEBSITE UNDER CONSTRUCTION! </font></h2>
 <font color="dc9632">Please excuse us while we make updates to our website.</font>
 
 <hr>
