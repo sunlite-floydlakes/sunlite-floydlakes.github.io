@@ -11,7 +11,7 @@ aside: true
 
 <hr>
 
-<h2><font color="dc9632"> WEBSITE UNDER CONSTRUCTION!! </font></h2>
+<h2><font color="dc9632"> WEBSITE UNDER CONSTRUCTION! </font></h2>
 <font color="dc9632">Please excuse us while we make updates to our website.</font>
 
 <hr>
