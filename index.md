@@ -11,7 +11,12 @@ layout: page
 
 <hr>
 
-<h2><font color="dc9632"> WEBSITE UNDER CONSTRUCTION! </font></h2>
+<h2><font color="dc9632"> PICK-UP ORDERS ONLY </font></h2>
+<font color="dc9632">Effective March 18. Call ahead to order at 218-847-4622.</font>
+
+<hr>
+
+<h3><font color="dc9632"> WEBSITE UNDER CONSTRUCTION! </font></h3>
 <font color="dc9632">Please excuse us while we make updates to our website.</font>
 
 <hr>
