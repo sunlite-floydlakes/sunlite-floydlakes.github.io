@@ -12,7 +12,7 @@ layout: page
 <hr>
 
 <h2><font color="dc9632"> PICK-UP ORDERS ONLY </font></h2>
-<font color="dc9632">Effective March 18, 2020. Call ahead to order at 218-847-4622.</font>
+<font color="dc9632">Effective March 18, 2020. Call ahead to order at 218-847-4622.</font>  
 <font color="dc9632">Until further notice, pick-up window hours are 11:00am - 9:00pm daily.</font>
 
 
