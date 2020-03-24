@@ -1,10 +1,8 @@
 ---
-title: TEST
+title: HOME
 feature_text: |
-  ## TEST
-  TESTING
 feature_image: "/assets/building_windows_crop_edit.jpeg"
-excerpt: "TEST"
+excerpt: ""
 layout: page
 ---
 
