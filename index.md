@@ -25,7 +25,6 @@ aside: true
 <hr>
  
  
-<!---
 
 <h3>AWARD WINNING BURGERS</h3>
 <style type="text/css">
@@ -76,22 +75,18 @@ aside: true
 
 <hr>
 
+<!--
 <h3>FIND US</h3>
-
 <div style="height:2em;"><br></div>
-
 <style>
 * {
   box-sizing: border-box;
 }
-
 .column {
   float: left;
   width: 33.33%;
   padding: 8px;
 }
-
-
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
@@ -99,9 +94,6 @@ aside: true
   display: table;
 }
 </style>
-
-
-
 <table class="tg">  
    <tr>
     <td class="tg-0pkyr" width="2%">  </td>
@@ -116,18 +108,15 @@ aside: true
     <td class="tg-0pkyc" width="60%"><p><strong>On the 'Richwood North' snowmobile trail. Get the trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</strong></p></td>
   </tr>
 </table> 
-
 <br>
-
 {% include map.html id="1oN9OHY9qA7ILqjjWWzStDWF8ckBa55_x&zoom=9" title="Sunlite Map" %}
-
 <br>
+-->
 
 
 
 
-
-
+<!---
 <div class="row">
   <div class="column" style="width: 35%">
     <img src="\assets\bigdock.jpeg" style="width:100%">
@@ -136,7 +125,6 @@ aside: true
         <p>Dock access on both sides of Richwood Road. Boat up from any of the Floyd Lakes.</p>
   </div>
 </div>
-
 <div class="row">
   <div class="column" style="width: 35%">
     <img src="\assets\snomobileparking.jpg" style="width:100%">
@@ -145,19 +133,12 @@ aside: true
     <p>On the 'Richwood North' snowmobile trail. Check out the Becker County trail map <a href="http://www.co.becker.mn.us/dept/parks_recreation/snowmobile.aspx">here</a>.</p>
   </div>
 </div>
-
-
-
 ## Sunlite at a Glance
-
 - Boat access from both Big, Middle, and Little Floyd Lakes
 - Pool tables & bubble hockey
 - some other stuff
-
-
 ## Local Partners!
 Here are some of the local businesses we purcahse from.
-
 - Tomatoes, cucumbers, and other produce from [Lakeview Greenhouse](https://www.facebook.com/pages/category/Local-Business/Lakeview-Greenhouses-1733740066719982/)
 - Onions from [Gulseth Farms](http://www.lakesareafarmersmarket.com/?post_type=team&p=2802)
 - Fresh ground beef from Hoffman's Meat Market.
