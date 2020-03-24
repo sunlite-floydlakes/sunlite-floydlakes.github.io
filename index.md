@@ -17,7 +17,7 @@ layout: page
 <hr>
 
 <h3><font color="dc9632"> WEBSITE UNDER CONSTRUCTION! </font></h3>
-<font color="dc9632">Please excuse us while we make updates to our website.</font>
+<font color="dc9632">Please excuse us while we make updates to a few pages of our website.</font>
 
 <hr>
 
