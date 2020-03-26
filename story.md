@@ -21,5 +21,5 @@ Boat parking is available on both sides of Richwood Road, providing access for a
 
 "Come see us soon for <i>great food at a great price!</i>"   
 
- -- Wayne and Kathy
+ -- Wayne and Kathy Crawford
 
