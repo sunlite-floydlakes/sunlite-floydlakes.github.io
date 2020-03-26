@@ -17,7 +17,7 @@ Sunlite has become known for its fun and energetic staff, fresh hand pattied bee
 
 The team takes great pride in being a family friendly restaurant and bar with affordable pricing. They have something for everyone -- indoor and outdoor seating, big screen TVs, bubble hockey, pool tables and other games, candy, ice cream treats, and a small grocery with cabin essentials.
 
-Boat parking is available on both sides of Richwood Road, providing access for all of the Floyd Lakes. Customers can enjoy a lakeside meal on the restaurant's deck during the summer. We are positioned on the "Richwood North" snowmobile trail and offer a full menu of hot toddies in the winter. 
+Boat parking is available on both sides of Richwood Road, providing access for all of the Floyd Lakes. Customers can enjoy a lakeside meal on the restaurant's deck during the summer. Positioned on the "Richwood North" snowmobile trail, customers can warm up with a full menu of hot toddies in the winter. 
 
 "Come see us soon for <i>great food at a great price!</i>"   
 
