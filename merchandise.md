@@ -15,10 +15,6 @@ excerpt: "Merchandise"
   padding: 8px;
 }
 
-.row {
-  float: center;
-}
-
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
