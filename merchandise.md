@@ -72,9 +72,10 @@ excerpt: "Merchandise"
 
 
 <hr>
-
+</center>
 
 <h3>T-SHIRTS</h3>
+<center>
 <div class="row">
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_front.jpeg" style="width:100%">
@@ -98,8 +99,11 @@ excerpt: "Merchandise"
 </div>
 
 <hr>
+</center>
+
 
 <h3>HATS</h3>
+<center>
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
