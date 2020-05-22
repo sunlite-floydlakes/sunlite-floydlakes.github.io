@@ -32,6 +32,7 @@ excerpt: "Merchandise"
 <hr>
 
 <h3>SWEATSHIRTS</h3>
+<center>
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
@@ -74,6 +75,7 @@ excerpt: "Merchandise"
 </div>
 
 <hr>
+</center>
 
 <h3>T-SHIRTS</h3>
 <div class="row">
