@@ -11,7 +11,7 @@ excerpt: "Merchandise"
 
 .column {
   float: center;
-  width: 45.0%;
+  width: 33.0%;
   padding: 8px;
 }
 
