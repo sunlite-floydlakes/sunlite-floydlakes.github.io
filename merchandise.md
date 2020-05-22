@@ -29,7 +29,7 @@ excerpt: "Merchandise"
 <body>
 
 <center>
-<div><h2>MERCHANDISE</h2><p>Please call or visit us for size availability and to purchase apparel items. Gift cards are always available in any amount.</p></div>    
+<div><h2>MERCHANDISE</h2><p>Call or visit us for size availability and to purchase apparel items. Gift cards are always available in any amount.</p></div>    
 <div><img src="/assets/merch/dock.jpeg" style="width:100%;padding-top:10px;"></div>
 </center>
   
