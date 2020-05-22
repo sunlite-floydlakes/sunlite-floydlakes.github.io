@@ -10,8 +10,7 @@ excerpt: "Merchandise"
 }
 
 .column {
-  float: center;
-  width: 33.0%;
+  flex: 50.0%;
   padding: 8px;
 }
 
