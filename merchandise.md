@@ -10,8 +10,8 @@ excerpt: "Merchandise"
 }
 
 .column {
-  float: left;
-  width: 33.33%;
+  float: center;
+  width: 50.0%;
   padding: 15px;
 }
 
@@ -57,26 +57,8 @@ excerpt: "Merchandise"
     <img src="/assets/merchplaceholder.png" style="width:100%">
     <figcaption> <font size="2"> <i> HOODED SWEATSHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
   </div>
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> HOODED SWEATSHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
 </div>
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> HOODED SWEATSHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> HOODED SWEATSHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> HOODED SWEATSHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
-</div>
 
 <hr>
 </center>
@@ -91,17 +73,9 @@ excerpt: "Merchandise"
     <img src="/assets/merchplaceholder.png" style="width:100%">
     <figcaption> <font size="2"> <i> T-SHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
   </div>
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> T-SHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
 </div>
 
 <div class="row">
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> T-SHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
     <figcaption> <font size="2"> <i> T-SHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
@@ -124,23 +98,6 @@ excerpt: "Merchandise"
     <img src="/assets/merchplaceholder.png" style="width:100%">
     <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00 </i> </font> </figcaption>
   </div>
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
 </div>
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
 </div>
