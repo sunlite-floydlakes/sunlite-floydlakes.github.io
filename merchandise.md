@@ -1,6 +1,6 @@
 ---
 title: ''
-excerpt: "Coming Soon!"
+excerpt: "Merchandise"
 ---
 
 <head>
@@ -25,18 +25,14 @@ excerpt: "Coming Soon!"
 
 
 <center>
-<div><h2>MERCHANDISE</h2><p>Come see us for size availability and to purchase apparel items. Gift cards are always available in any amount.</p></div>    
-<div><img src="/assets/merchsplash.jpeg" style="width:55%;padding-top:10px;"></div>
+<div><h2>MERCHANDISE</h2><p>Call or visit us for size availability and to purchase apparel items. Gift cards are always available in any amount.</p></div>    
+<div><img src="/assets/merchsplash.jpeg" style="width:80%;padding-top:10px;"></div>
 </center>
   
 <hr>
 
 <h3>SWEATSHIRTS</h3>
 <div class="row">
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> HOODED SWEATSHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
-  </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
     <figcaption> <font size="2"> <i> HOODED SWEATSHIRT &ndash; &#36;25.00 </i> </font> </figcaption>
