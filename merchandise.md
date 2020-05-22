@@ -12,7 +12,7 @@ excerpt: "Merchandise"
 .column {
   float: center;
   width: 50.0%;
-  padding: 15px;
+  padding: 8px;
 }
 
 .row {
