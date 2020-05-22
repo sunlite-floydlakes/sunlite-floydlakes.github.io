@@ -66,7 +66,7 @@ excerpt: "Merchandise"
   </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> Embroidered buffalo plaid flannel art &ndash; &#36;25.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Embroidered buffalo plaid flannel art </i> </font> </figcaption>
   </div>
 </div>
 
@@ -79,11 +79,11 @@ excerpt: "Merchandise"
 <div class="row">
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_front.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Sunset t-shirt (front) &ndash; &#36;15.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Sunset t-shirt (front) <br/>&#36;15.00 </i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_back.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Sunset t-shirt (back) &ndash; &#36;15.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Sunset t-shirt (back) <br/>&#36;15.00</i> </font> </figcaption>
   </div>
 </div>
 
