@@ -38,11 +38,11 @@ excerpt: "Merchandise"
 <center>
 <div class="row">
   <div class="column">
-    <img src="/assets/merch/cream_hooded_sweatshirt.jpeg" style="width:100%">
+    <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
     <figcaption> <font size="2"> <i> CREAM HOODED SWEATSHIRT &ndash; &#36;35.00 </i> </font> </figcaption>
   </div>
   <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <img src="/assets/merchplaceholder.png">
     <figcaption> <font size="2"> <i> HOODED SWEATSHIRT &ndash; &#36;35.00 </i> </font> </figcaption>
   </div>
 </div>
