@@ -44,7 +44,7 @@ excerpt: "Merchandise"
   </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png">
-    <figcaption> <font size="2"> <i> Cream hooded sweatshirt art </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Cream hooded sweatshirt applique </i> </font> </figcaption>
   </div>
 </div>
 
@@ -55,18 +55,18 @@ excerpt: "Merchandise"
   </div>
   <div class="column" style="flex=100%">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> Colorful stripes light-weight hoodie art </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Colorful stripes light-weight hoodie screenprint </i> </font> </figcaption>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <img src="/assets/merch/flannel.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Embroidered buffalo plaid flannel<br/>&#36;25.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Buffalo plaid flannel<br/>&#36;25.00 </i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> Embroidered buffalo plaid flannel art </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Buffalo plaid flannel embroidery </i> </font> </figcaption>
   </div>
 </div>
 
@@ -79,11 +79,11 @@ excerpt: "Merchandise"
 <div class="row">
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_front.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Sunset t-shirt (front) <br/>&#36;15.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Sunset t-shirt (front)<br/>&#36;15.00 </i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_back.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Sunset t-shirt (back) <br/>&#36;15.00</i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Sunset t-shirt (back)<br/>&#36;15.00</i> </font> </figcaption>
   </div>
 </div>
 
