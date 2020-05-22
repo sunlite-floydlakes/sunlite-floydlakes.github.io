@@ -61,7 +61,7 @@ excerpt: "Merchandise"
 
 
 <hr>
-</center>
+
 
 <h3>T-SHIRTS</h3>
 <div class="row">
@@ -100,3 +100,4 @@ excerpt: "Merchandise"
   </div>
 </div>
 
+</center>
