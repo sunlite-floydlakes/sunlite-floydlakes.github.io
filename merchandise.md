@@ -8,6 +8,10 @@ excerpt: "Merchandise"
 * {
   box-sizing: border-box;
 }
+  
+.row {
+  display: flex;
+}
 
 .column {
   flex: 50.0%;
