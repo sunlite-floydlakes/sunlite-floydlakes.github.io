@@ -43,7 +43,7 @@ excerpt: "Merchandise"
     <figcaption> <font size="2"> <i> Cream hooded sweatshirt<br/>&#36;35.00 </i> </font> </figcaption>
   </div>
   <div class="column">
-    <img src="/assets/merch/merchplaceholder.png">
+    <img src="/assets/merchplaceholder.png">
     <figcaption> <font size="2"> <i> Cream hooded sweatshirt art </i> </font> </figcaption>
   </div>
 </div>
@@ -82,7 +82,7 @@ excerpt: "Merchandise"
     <figcaption> <font size="2"> <i> Sunset t-shirt (front) &ndash; &#36;15.00 </i> </font> </figcaption>
   </div>
   <div class="column">
-    <img src="/assets/sunset_tshirt_back.jpeg" style="width:100%">
+    <img src="/assets/merch/sunset_tshirt_back.jpeg" style="width:100%">
     <figcaption> <font size="2"> <i> Sunset t-shirt (back) &ndash; &#36;15.00 </i> </font> </figcaption>
   </div>
 </div>
