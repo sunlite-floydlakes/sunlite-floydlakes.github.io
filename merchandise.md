@@ -111,7 +111,7 @@ excerpt: "Merchandise"
   </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00</i> </font> </figcaption>
   </div>
 </div>
 
