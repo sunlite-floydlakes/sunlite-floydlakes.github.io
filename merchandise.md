@@ -25,7 +25,9 @@ excerpt: "Merchandise"
   display: table;
 }
 
-p{ margin: 0; }
+p { 
+  margin-top: -10px;
+}
 </style>
 
 
