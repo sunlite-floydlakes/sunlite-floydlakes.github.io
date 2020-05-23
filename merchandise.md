@@ -28,7 +28,7 @@ excerpt: "Merchandise"
 
 
 <center>
-<div><h2>MERCHANDISE</h2><p>Call or visit us for size availability and to purchase apparel items. Gift cards are always available in any amount.</p></div>    
+<div><h2>MERCHANDISE</h2><p>call or visit us for size availability and to purchase apparel items. Gift cards are always available in any amount.</p></div>    
 <div><img src="/assets/merch/dock.jpeg" style="width:100%;padding-top:10px;"></div>
 </center>
   
@@ -75,11 +75,11 @@ excerpt: "Merchandise"
 <div class="row">
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_front.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Sunset t-shirt (front)<br>&#36;15.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Sunset t-shirt (front)<p>&#36;15.00 </i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_back.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Sunset t-shirt (back)<br/>&#36;15.00</i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Sunset t-shirt (back)<p>&#36;15.00</i> </font> </figcaption>
   </div>
 </div>
 
