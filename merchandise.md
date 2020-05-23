@@ -35,6 +35,7 @@ excerpt: "Merchandise"
 <hr>
 
 <h3>LONG SLEEVES</h3>
+<center>
 <div class="row">
   <div class="column">
     <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
@@ -67,7 +68,7 @@ excerpt: "Merchandise"
     <figcaption> <font size="2"> <i> Buffalo plaid flannel embroidery </i> </font> </figcaption>
   </div>
 </div>
-
+</center>
 <hr>
 
 <h3>T-SHIRTS</h3>
