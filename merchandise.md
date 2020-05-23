@@ -9,9 +9,9 @@ excerpt: "Merchandise"
   box-sizing: border-box;
 }
   
-.row {
+/* .row {
   display: flex;
-}
+} */
 
 .column {
   flex: 50.0%;
