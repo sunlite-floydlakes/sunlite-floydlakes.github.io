@@ -25,8 +25,7 @@ excerpt: "Merchandise"
   display: table;
 }
 </style>
-</head>
-<body>
+
 
 <center>
 <div><h2>MERCHANDISE</h2><p>Please call or visit us for size availability and to purchase apparel items. Gift cards are always available in any amount.</p></div>    
@@ -36,7 +35,6 @@ excerpt: "Merchandise"
 <hr>
 
 <h3>LONG SLEEVES</h3>
-<center>
 <div class="row">
   <div class="column">
     <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
@@ -70,12 +68,9 @@ excerpt: "Merchandise"
   </div>
 </div>
 
-
 <hr>
-</center>
 
 <h3>T-SHIRTS</h3>
-<center>
 <div class="row">
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_front.jpeg" style="width:100%">
@@ -99,11 +94,9 @@ excerpt: "Merchandise"
 </div>
 
 <hr>
-</center>
 
 
 <h3>HATS</h3>
-<center>
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
@@ -114,6 +107,3 @@ excerpt: "Merchandise"
     <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00</i> </font> </figcaption>
   </div>
 </div>
-
-</center>
-</body>
