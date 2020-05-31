@@ -9,7 +9,10 @@ aside: true
 
 <img src="\assets\menupage1.jpg">
 <img src="\assets\menupage2.jpg">
+
+<!--
 <img src="\assets\menupage3.jpg">
 <img src="\assets\menupage4.jpg">
+-->
 
  
