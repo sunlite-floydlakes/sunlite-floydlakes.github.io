@@ -11,23 +11,11 @@ layout: page
 
 <hr>
 
-<h2><font color="dc9632"> PICK-UP ORDERS ONLY </font></h2>
-<p><font color="dc9632">Effective March 18, 2020. Call ahead to order at 218-847-4622.</font>      
-<font color="dc9632">Until further notice, pick-up window hours are 11:00am - 8:00pm daily.</font></p>
-
-
-<hr>
-
-<h3><font color="dc9632"> WEBSITE UNDER CONSTRUCTION! </font></h3>
-<font color="dc9632">Please excuse us while we make updates to a few pages of our website.</font>
-
-<hr>
-
 <h3>HOURS</h3>
 
-<strong>Sunday - Tuesday</strong> | 10:30am - 9:00pm  
+<strong>Sunday, Monday, Tuesday</strong> | 10:30am - 10:00pm  
 <strong>Wednesday</strong> | 10:30am - Midnight  
-<strong>Thursday - Saturday</strong> | 10:30am - 1:00am  
+<strong>Thursday, Friday, Saturday</strong> | 10:30am - 1:00am  
 
 <hr>
 
