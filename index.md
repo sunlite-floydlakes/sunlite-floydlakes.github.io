@@ -13,9 +13,8 @@ layout: page
 
 <h3>HOURS</h3>
 
-<strong>Sunday, Monday, Tuesday</strong> | 10:30am - 10:00pm  
-<strong>Wednesday</strong> | 10:30am - Midnight  
-<strong>Thursday, Friday, Saturday</strong> | 10:30am - 1:00am  
+<strong>Sunday, Monday, Tuesday, Wednesday </strong> | 10:30am - 10:00pm  (kitchen closes at 8:30pm)
+<strong>Thursday, Friday, Saturday</strong> | 10:30am - 1:00am (grill closes at 10:00pm, pizza and deep fried until 12:30pm)
 
 <hr>
 
