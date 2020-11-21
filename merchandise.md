@@ -46,19 +46,19 @@ p {
     <figcaption> <font size="2"> <i> Cream hooded sweatshirt<br/>&#36;35.00 </i> </font> </figcaption>
   </div>
   <div class="column">
-    <img src="/assets/merchplaceholder.png">
+    <img src="/assets/cream_applique.jpg">
     <figcaption> <font size="2"> <i> Cream hooded sweatshirt applique </i> </font> </figcaption>
   </div>
 </div>
 
 <div class="row">
    <div class="column">
-    <img src="/assets/merch/stripe_sweatshirt.jpeg">
-    <figcaption> <font size="2"> <i> Colorful stripes light-weight hoodie <br/>&#36;25.00 </i> </font> </figcaption>
+    <img src="/assets/merch/stripe_double.jpeg">
+    <figcaption> <font size="2"> <i> Colorful stripes t-shirt <br/>&#36;25.00 </i> </font> </figcaption>
   </div>
   <div class="column" style="flex=100%">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption> <font size="2"> <i> Colorful stripes light-weight hoodie screenprint </i> </font> </figcaption>
+    <img src="/assets/stripe_screenprint.jpg" style="width:100%">
+    <figcaption> <font size="2"> <i> Colorful stripes screenprint </i> </font> </figcaption>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ p {
     <figcaption> <font size="2"> <i> Buffalo plaid flannel<br/>&#36;25.00 </i> </font> </figcaption>
   </div>
   <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <img src="/assets/plaid_embroidery.jpg" style="width:100%">
     <figcaption> <font size="2"> <i> Buffalo plaid flannel embroidery </i> </font> </figcaption>
   </div>
 </div>
@@ -88,16 +88,6 @@ p {
   </div>
 </div>
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/merch/stripe_tshirt1.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Colorful stripes t-shirt<br/>&#36;15.00 </i> </font> </figcaption>
-  </div>
-  <div class="column">
-    <img src="/assets/merch/stripe_double.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Colorful stripes t-shirt and hoodie<br/>(see above for screenprint art) </i> </font> </figcaption>
-  </div>
-</div>
 </center>
 <hr>
 
@@ -106,11 +96,11 @@ p {
 <center>
 <div class="row">
   <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <img src="/assets/baseball_caps.jpg" style="width:100%">
     <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00 </i> </font> </figcaption>
   </div>
   <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <img src="/assets/beanie_hat.jpg" style="width:100%">
     <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00</i> </font> </figcaption>
   </div>
 </div>
