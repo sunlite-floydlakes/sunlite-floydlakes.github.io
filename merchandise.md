@@ -47,7 +47,7 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
-    <figcaption style="line-height: 20%"> <font size="2"> <i>Cream hooded sweatshirt (sizes S and L only) test test test test test &#36;35.00</i> </font> </figcaption>
+    <figcaption style="line-height: 0.5"> <font size="2"> <i>Cream hooded sweatshirt (sizes S and L only) test test test test test &#36;35.00</i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/cream_applique.jpg">
