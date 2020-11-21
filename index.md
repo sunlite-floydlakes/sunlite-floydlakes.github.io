@@ -11,7 +11,7 @@ layout: page
 
 <hr>
 
-<h5><font color="dc9632"> Open for take-out only </font></h5>
+<h5><font color="dc9632"> Open for take-out only! </font></h5>
 <h3><font color="dc9632">(in accordance with MN Executive Order 20-99)</font></h3>
 
 <hr>
