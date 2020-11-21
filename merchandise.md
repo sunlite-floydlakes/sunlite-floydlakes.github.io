@@ -43,7 +43,7 @@ p {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
-    <figcaption> <font size="2"> <i> Cream hooded sweatshirt<br/>&#36;35.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Cream hooded sweatshirt (sizes S and L only) <br/>&#36;35.00 </i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/cream_applique.jpg">
@@ -70,11 +70,11 @@ p {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_front.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Sunset t-shirt (front)<p>&#36;15.00</p></i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Sunset t-shirt front (size small only) <p>&#36;15.00</p></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_back.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Sunset t-shirt (back)<p>&#36;15.00</p></i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Sunset t-shirt back (size small only) <p>&#36;15.00</p></i> </font> </figcaption>
   </div>
 </div>
   
@@ -98,11 +98,11 @@ p {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/baseball_caps.jpg" style="width:100%">
-    <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Blue baseball hat (gray is out of stock) &ndash; &#36;25.00 </i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/beanie_hat.jpg" style="width:100%">
-    <figcaption> <font size="2"> <i> HAT &ndash; &#36;25.00</i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Black beanie hat &ndash; &#36;5.00</i> </font> </figcaption>
   </div>
 </div>
 </center>
