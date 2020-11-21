@@ -7,8 +7,8 @@ aside: true
 ---
 
 
-<img src="\assets\menupage1.jpg">
-<img src="\assets\menupage2.jpg">
+<img src="\assets\menupage1.png">
+<img src="\assets\menupage2.png">
 
 <!--
 <img src="\assets\menupage3.jpg">
