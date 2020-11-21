@@ -30,7 +30,7 @@ p {
 }
 
 br {
-      line-height: 10%;
+  line-height: 10%;
 }
 </style>
 
@@ -47,7 +47,7 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
-    <figcaption> <font size="2"> <i>Cream hooded sweatshirt (sizes S and L only)<br>&#36;35.00</i> </font> </figcaption>
+    <figcaption> <font size="2"> <i>Cream hooded sweatshirt (sizes S and L only) test test test test test &#36;35.00</i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/cream_applique.jpg">
