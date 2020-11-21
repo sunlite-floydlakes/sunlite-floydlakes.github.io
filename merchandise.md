@@ -47,7 +47,7 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i>Cream hooded sweatshirt (sizes S and L only) <br> &#36;35.00<br></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i>Cream hooded sweatshirt (sizes S and L only) <br> &#36;35.00<br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/cream_applique.jpg">
@@ -102,7 +102,7 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/baseball_caps.jpg" style="width:100%">
-    <figcaption> <font size="2"> <i> Blue baseball hat (gray is out of stock) &ndash; &#36;25.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Blue baseball hat (gray is out of stock) &ndash; &#36;17.00 </i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/beanie_hat.jpg" style="width:100%">
