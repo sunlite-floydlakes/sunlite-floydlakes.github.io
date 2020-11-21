@@ -11,6 +11,10 @@ layout: page
 
 <hr>
 
+<h5><font color="dc9632"> Open for take-out only (in accordance with MN Executive Order 20-99) </font></h5>
+
+<hr>
+
 <h3>HOURS</h3>
 
 <strong>Sun, Mon, Tue, Wed, Thu </strong> | 11am - 8pm
