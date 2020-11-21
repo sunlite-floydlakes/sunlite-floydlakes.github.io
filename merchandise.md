@@ -25,8 +25,9 @@ excerpt: "Merchandise"
   display: table;
 }
 
-p { 
-  margin-top: -10px;
+p {
+  margin: 0;
+  margin-top: 0;
 }
 </style>
 
@@ -43,8 +44,7 @@ p {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
-    <figcaption> <font size="2"> <i> <div style="white-space:pre-line">Cream hooded sweatshirt (sizes S and L only)
-      &#36;35.00 <\div></i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> <p>Cream hooded sweatshirt (sizes S and L only)<\p> <p> &#36;35.00 </p></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/cream_applique.jpg">
