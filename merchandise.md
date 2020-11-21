@@ -118,7 +118,7 @@ br {
 <div class="row">
    <div class="column">
     <img src="/assets/merch/stripe_double.jpeg">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Colorful stripes t-shirt<br/>(S & L available)<br />&#36;25.00<br/><br/><br/> </i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Colorful stripes t-shirt<br/> (S & L available)<br />&#36;25.00<br/><br/><br/> </i> </font> </figcaption>
   </div>
   <div class="column" style="flex=100%">
     <img src="/assets/merch/stripe_screenprint.jpg" style="width:100%">
