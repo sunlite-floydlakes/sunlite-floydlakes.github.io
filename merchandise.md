@@ -36,7 +36,7 @@ br {
 
 
 <center>
-<div><h2>MERCHANDISE</h2><p>Please call or visit us for size availability and to purchase apparel items. Gift cards are always available in any amount.</p></div>    
+<div><h2>MERCHANDISE</h2><p>Please visit us for current availability and to purchase apparel items. Gift cards are always available in any amount.</p><p>Size availability listed below was last updated on November 21, 2020.</p></div>    
 <div><img src="/assets/merch/dock.jpeg" style="width:100%;padding-top:10px;"></div>
 </center>
   
@@ -47,7 +47,7 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i>Cream hooded sweatshirt<br/> (sizes S and L only) <br/> &#36;35.00<br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i>Cream hooded sweatshirt<br/> (S & L available) <br/> &#36;35.00<br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/cream_applique.jpg">
@@ -59,10 +59,43 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/flannel.jpeg" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Buffalo plaid flannel<br />&#36;25.00 <br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Buffalo plaid flannel<br /> (all sizes available) <br />&#36;25.00 <br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/plaid_embroidery.jpg" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Buffalo plaid flannel embroidery </i> </font> </figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Gray 1&#8725;4 zip <br /> (L & XL available) &#36;25.00 <br/><br/><br/></i> </font> </figcaption>
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Buffalo plaid flannel embroidery </i> </font> </figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Buffalo plaid flannel<br />&#36;25.00 <br/><br/><br/></i> </font> </figcaption>
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Buffalo plaid flannel embroidery </i> </font> </figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Buffalo plaid flannel<br />&#36;25.00 <br/><br/><br/></i> </font> </figcaption>
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
     <figcaption style="line-height: 0.8"> <font size="2"> <i> Buffalo plaid flannel embroidery </i> </font> </figcaption>
   </div>
 </div>
@@ -74,18 +107,18 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_front.jpeg" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Sunset t-shirt front <br/> (size small only) <br/> &#36;15.00<br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Sunset t-shirt <br/> (size S available) <br/> &#36;15.00<br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_back.jpeg" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Sunset t-shirt back <br/> (size small only) <br/> &#36;15.00<br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Sunset t-shirt back</i> </font> </figcaption>
   </div>
 </div>
   
 <div class="row">
    <div class="column">
     <img src="/assets/merch/stripe_double.jpeg">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Colorful stripes t-shirt<br/>&#36;25.00<br/><br/><br/> </i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Colorful stripes t-shirt<br/>(S & L available)<br />&#36;25.00<br/><br/><br/> </i> </font> </figcaption>
   </div>
   <div class="column" style="flex=100%">
     <img src="/assets/merch/stripe_screenprint.jpg" style="width:100%">
