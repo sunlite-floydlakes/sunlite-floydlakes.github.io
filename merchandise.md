@@ -74,18 +74,18 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_front.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Sunset t-shirt front (size small only) <p>&#36;15.00</p></i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Sunset t-shirt front (size small only) <br>&#36;15.00</p></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_back.jpeg" style="width:100%">
-    <figcaption> <font size="2"> <i> Sunset t-shirt back (size small only) <p>&#36;15.00</p></i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Sunset t-shirt back (size small only) <br>&#36;15.00</p></i> </font> </figcaption>
   </div>
 </div>
   
 <div class="row">
    <div class="column">
     <img src="/assets/merch/stripe_double.jpeg">
-    <figcaption> <font size="2"> <i> Colorful stripes t-shirt <br/>&#36;25.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> Colorful stripes t-shirt<br>&#36;25.00 </i> </font> </figcaption>
   </div>
   <div class="column" style="flex=100%">
     <img src="/assets/merch/stripe_screenprint.jpg" style="width:100%">
