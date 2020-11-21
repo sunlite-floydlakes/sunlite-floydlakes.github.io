@@ -13,36 +13,8 @@ layout: page
 
 <h3>HOURS</h3>
 
-<strong>Sunday, Monday, Tuesday, Wednesday </strong> | 10:30am - 10:00pm
-<strong>Thursday, Friday, Saturday</strong> | 10:30am - 1:00am
-
-<hr>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3z1b{border-color:#000000;text-align:right;vertical-align:top}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-3z1b">Sunday, Monday, Tuesday, Wednesday</th>
-    <th class="tg-73oq">hours</th>
-    <th class="tg-73oq">grill hours</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-3z1b">Thursday, Friday, Saturday</td>
-    <td class="tg-73oq">hours</td>
-    <td class="tg-73oq">grill hours</td>
-  </tr>
-</tbody>
-</table>
+<strong>Sun, Mon, Tue, Wed, Thu </strong> | 11am - 8pm
+<strong>Fri & Sat</strong> | 11am - 9pm
 
 <hr>
 
