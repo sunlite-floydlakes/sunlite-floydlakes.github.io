@@ -47,7 +47,7 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i>Cream hooded sweatshirt (sizes S and L only) <br/> &#36;35.00<br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i>Cream hooded sweatshirt<br/> (sizes S and L only) <br/> &#36;35.00<br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/cream_applique.jpg">
@@ -74,11 +74,11 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_front.jpeg" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Sunset t-shirt front (size small only) <br/> &#36;15.00<br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Sunset t-shirt front <br/> (size small only) <br/> &#36;15.00<br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/sunset_tshirt_back.jpeg" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Sunset t-shirt back (size small only) <br/> &#36;15.00<br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Sunset t-shirt back <br/> (size small only) <br/> &#36;15.00<br/><br/><br/></i> </font> </figcaption>
   </div>
 </div>
   
@@ -102,7 +102,7 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/baseball_caps.jpg" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Blue baseball hat (gray is out of stock) <br/> &#36;17.00<br/><br/><br/> </i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Blue baseball hat <br/> (gray is out of stock) <br/> &#36;17.00<br/><br/><br/> </i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/beanie_hat.jpg" style="width:100%">
