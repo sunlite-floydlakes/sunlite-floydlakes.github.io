@@ -43,7 +43,8 @@ p {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/cream_hooded_sweatshirt.jpeg">
-    <figcaption> <font size="2"> <i> Cream hooded sweatshirt (sizes S and L only) <br/>&#36;35.00 </i> </font> </figcaption>
+    <figcaption> <font size="2"> <i> <div style="white-space:pre-line">Cream hooded sweatshirt (sizes S and L only)
+      &#36;35.00 <\div></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/cream_applique.jpg">
