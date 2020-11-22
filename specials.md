@@ -2,4 +2,6 @@
 title: SPECIALS
 excerpt: ""
 ---
-Coming soon!
+
+
+<img src="\assets\takeout_specials.pdf">
