@@ -59,7 +59,7 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merch/flannel.jpeg" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Buffalo plaid flannel<br /> (S, M, L, XL, 2XL available) <br />&#36;25.00 <br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Buffalo plaid flannel<br /> (S through 2XL available) <br />&#36;25.00 <br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merch/plaid_embroidery.jpg" style="width:100%">
@@ -92,7 +92,7 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Royal blue hooded sweatshirt<br />(S, M, L, XL, 2XL available) <br />&#36;35.00 <br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Royal blue hooded sweatshirt<br />(S through 2XL available) <br />&#36;35.00 <br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
@@ -103,11 +103,22 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Maroon hooded sweatshirt<br />(M, L, XL, 2XL, 3XL available) <br />&#36;35.00 <br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Maroon hooded sweatshirt<br />(M through 3XL available) <br />&#36;35.00 <br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
     <figcaption style="line-height: 0.8"> <font size="2"> <i> Maroon hooded sweatshirt applique </i> </font> </figcaption>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Gray diamond light-weight hoodie<br />(S, through 2XL available) <br />&#36;25.00 <br/><br/><br/></i> </font> </figcaption>
+  </div>
+  <div class="column">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Gray light-weight hoodie screenprint </i> </font> </figcaption>
   </div>
 </div>
 </center>
@@ -139,15 +150,25 @@ br {
 
 <div class="row">
    <div class="column">
-    <img src="/assets/merch/stripe_double.jpeg">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> WILD t-shirt<br/> (S through 4XL available)<br />&#36;15.00<br/><br/><br/> </i> </font> </figcaption>
+    <img src="/assets/merchplaceholder.png">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Diamond t-shirt <br/> (S through 2XL available)<br />&#36;15.00<br/><br/><br/> </i> </font> </figcaption>
   </div>
   <div class="column" style="flex=100%">
-    <img src="/assets/merch/stripe_screenprint.jpg" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> WILD t-shirt screenprint </i> </font> </figcaption>
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Diamond t-shirt screenprint </i> </font> </figcaption>
   </div>
 </div>
 
+<div class="row">
+   <div class="column">
+    <img src="/assets/merchplaceholder.png">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> WILD t-shirt<br/> (S through 4XL available)<br />&#36;15.00<br/><br/><br/> </i> </font> </figcaption>
+  </div>
+  <div class="column" style="flex=100%">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> WILD t-shirt screenprint </i> </font> </figcaption>
+  </div>
+</div>
 </center>
 <hr>
 
