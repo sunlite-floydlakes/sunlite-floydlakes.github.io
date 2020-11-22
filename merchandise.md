@@ -69,11 +69,11 @@ br {
 
 <div class="row">
   <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <img src="/assets/merch/qzip.jpeg" style="width:100%">
     <figcaption style="line-height: 0.8"> <font size="2"> <i> Gray 1&#8725;4 zip <br /> (L & XL available)<br /> &#36;35.00 <br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <img src="/assets/merch/qzip_embroidery.jpeg" style="width:100%">
     <figcaption style="line-height: 0.8"> <font size="2"> <i> Gray 1&#8725;4 zip embroidery </i> </font> </figcaption>
   </div>
 </div>
@@ -114,7 +114,7 @@ br {
 <div class="row">
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Gray diamond light-weight hoodie<br />(S, through 2XL available) <br />&#36;25.00 <br/><br/><br/></i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Gray diamond light-weight hoodie<br />(S through 2XL available) <br />&#36;25.00 <br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
     <img src="/assets/merchplaceholder.png" style="width:100%">
@@ -151,11 +151,11 @@ br {
 <div class="row">
    <div class="column">
     <img src="/assets/merchplaceholder.png">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Diamond t-shirt <br/> (S through 2XL available)<br />&#36;15.00<br/><br/><br/> </i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Gray diamond t-shirt <br/> (S through 2XL available)<br />&#36;15.00<br/><br/><br/> </i> </font> </figcaption>
   </div>
   <div class="column" style="flex=100%">
     <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Diamond t-shirt screenprint </i> </font> </figcaption>
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Gray diamond t-shirt screenprint </i> </font> </figcaption>
   </div>
 </div>
 
@@ -173,7 +173,7 @@ br {
 <hr>
 
 
-<h3>HATS</h3>
+<h3>HATS & MORE</h3>
 <center>
 <div class="row">
   <div class="column">
@@ -183,6 +183,17 @@ br {
   <div class="column">
     <img src="/assets/merch/beanie_hat.jpg" style="width:100%">
     <figcaption style="line-height: 0.8"> <font size="2"> <i> Black beanie hat <br/> &#36;5.00<br/><br/><br/></i> </font> </figcaption>
+  </div>
+</div>
+  
+ <div class="row">
+   <div class="column">
+    <img src="/assets/merchplaceholder.png">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Can coozies <br/>&#36;2.50<br/><br/><br/> </i> </font> </figcaption>
+  </div>
+  <div class="column" style="flex=100%">
+    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Bottle coozies <br/>&#36;4.50</i> </font> </figcaption>
   </div>
 </div>
 </center>
