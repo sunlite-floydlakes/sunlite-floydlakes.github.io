@@ -36,7 +36,7 @@ br {
 
 
 <center>
-<div><h2>MERCHANDISE</h2><p>Please visit us for current availability and to purchase apparel items. Gift cards are always available in any amount.</p><p>Size availability listed below was last updated on November 21, 2020.</p></div>    
+<div><h2>MERCHANDISE</h2><p>Please visit us for current availability and to purchase apparel items. Gift cards are always available in any amount.<br />Size availability listed below was last updated on November 21, 2020.</p></div>    
 <div><img src="/assets/merch/dock.jpeg" style="width:100%;padding-top:10px;"></div>
 </center>
   
