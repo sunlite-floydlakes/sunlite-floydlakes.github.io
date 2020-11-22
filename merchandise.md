@@ -69,7 +69,7 @@ br {
 
 <div class="row">
   <div class="column">
-    <img src="/assets/merch/qzip.jpg" style="width:100%">
+    <img src="/assets/merch/q_zip.jpg" style="width:100%">
     <figcaption style="line-height: 0.8"> <font size="2"> <i> Gray 1&#8725;4 zip <br /> (L & XL available)<br /> &#36;35.00 <br/><br/><br/></i> </font> </figcaption>
   </div>
   <div class="column">
