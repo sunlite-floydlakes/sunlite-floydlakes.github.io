@@ -78,16 +78,6 @@ br {
   </div>
 </div>
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Dark blue hooded sweatshirt<br />(S & L available)<br />&#36;35.00 <br/><br/><br/></i> </font> </figcaption>
-  </div>
-  <div class="column">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> Dark blue hooded sweatshirt applique </i> </font> </figcaption>
-  </div>
-</div>
 
 <div class="row">
   <div class="column">
