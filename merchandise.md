@@ -149,8 +149,6 @@ br {
     <figcaption style="line-height: 0.8"> <font size="2"> <i> Tie-die t-shirt  <br/> (S through 2XL available)<br />&#36;17.00<br/><br/><br/> </i>  </font> </figcaption>
   </div>
 </div>
-</center>
-<hr>
 
 <div class="row">
    <div class="column">
