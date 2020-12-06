@@ -46,16 +46,16 @@ layout: page
 <table class="tg">  
 <tr>
 <td class="tg-0pkyr" width="5%"></td>
-<td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-<td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5> <strong>Bacon Cheese Burger</strong></td> 
+<td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2019.png"></td>
+<td class="tg-0pkyl"><p><span class="ones"> #1 </span> <strong>Burger</strong> </p></td>
 </tr>
 <tr>
 <th><div style="height:4px;"><br></div></th>
 </tr>
 <tr>
 <td class="tg-0pkyr" width="5%"></td>
-<td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2019.png"></td>
-<td class="tg-0pkyl"><p><span class="ones"> #1 </span> <strong>Burger</strong> </p></td>
+<td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
+<td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5> <strong>Bacon Cheese Burger</strong></td> 
 </tr>
 </table>   
 
@@ -64,8 +64,8 @@ layout: page
 <table class="tg">  
 <tr>
 <td class="tg-0pkyr" width="5%">  </td>
-<td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
-<td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><strong>Bacon Jalape&#241;o Cream Cheese Burger</strong></td> 
+<td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
+<td class="tg-0pkyl"><p><span class="ones"> #1 </span> <strong> Burger, Bar, Drink, &amp; Small Business to Work For</strong></p></td>
 </tr>
 <tr>
 <th></th>
@@ -73,8 +73,8 @@ layout: page
 </tr>
 <tr>
 <td class="tg-0pkyr" width="5%">  </td>
-<td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2018.png"></td>
-<td class="tg-0pkyl"><p><span class="ones"> #1 </span> <strong> Burger, Bar, Drink, &amp; Small Business to Work For</strong></p></td>
+<td class="tg-0pkyr" width="18%"><img src="\assets\burgerbrawl.png"></td>
+<td class="tg-0pkyl"><h5><font color="dc9632"> Champion </font></h5><strong>Bacon Jalape&#241;o Cream Cheese Burger</strong></td> 
 </tr>
 </table> 
 
