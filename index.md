@@ -18,8 +18,7 @@ layout: page
 
 <h3>HOURS</h3>
 
-<strong>Sun, Mon, Tue, Wed, Thu </strong> | 11am - 8pm
-<strong>Fri & Sat</strong> | 11am - 9pm
+<strong> Daily </strong> | 11am - 8pm
 
 <hr>
 
