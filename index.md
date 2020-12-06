@@ -41,7 +41,7 @@ p {
 <tr>
 <td class="tg-0pkyr" width="5%"></td>
 <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2020.png"></td>
-<td class="tg-0pkyl"><h5><font color="dc9632"> #1 </font></h5><p><strong>Burger, French Fries, Bar, Casual Dining, Bosses (Wayne &amp; Kathy),  Bartender (Josh), &amp; Small Company to Work For</strong></p></td>
+<td class="tg-0pkyl"><p><span class="ones"> #1 </span> <strong>Burger, French Fries, Bar, Casual Dining, Bosses (Wayne &amp; Kathy),  Bartender (Josh), &amp; Small Company to Work For</strong></p></td>
 </tr>
 </table>   
 <br>
