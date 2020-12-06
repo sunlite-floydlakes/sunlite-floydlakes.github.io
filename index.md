@@ -32,6 +32,16 @@ layout: page
 .ones { font-weight: bold; color: #dc9632; font-size: 23.5px;}
 </style>
 
+<h4>2020</h4>
+<table class="tg">  
+<tr>
+<td class="tg-0pkyr" width="5%"></td>
+<td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2020.png"></td>
+<td class="tg-0pkyl"><p><span class="ones"> #1 </span> <strong>Burger</strong> </p></td>
+</tr>
+</table>   
+<br>
+
 <h4>2019</h4>
 <table class="tg">  
 <tr>
