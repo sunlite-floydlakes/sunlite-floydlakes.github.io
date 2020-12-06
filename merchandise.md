@@ -181,7 +181,7 @@ br {
   
  <div class="row">
    <div class="column">
-    <img src="/assets/merchplaceholder.png">
+    <img src="/assets/merch/can_coozie.jpg">
     <figcaption style="line-height: 0.8"> <font size="2"> <i> Can coozies <br/>&#36;2.50<br/><br/><br/> </i> </font> </figcaption>
   </div>
   <div class="column" style="flex=100%">
