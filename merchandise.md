@@ -154,12 +154,12 @@ br {
 
 <div class="row">
    <div class="column">
-    <img src="/assets/merchplaceholder.png">
+    <img src="/assets/merch/wild_tshirt2.jpg">
     <figcaption style="line-height: 0.8"> <font size="2"> <i> WILD t-shirt<br/> (S through 4XL available)<br />&#36;15.00<br/><br/><br/> </i> </font> </figcaption>
   </div>
   <div class="column" style="flex=100%">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
-    <figcaption style="line-height: 0.8"> <font size="2"> <i> WILD t-shirt screenprint </i> </font> </figcaption>
+    <img src="/assets/merch/wild_screenprint.jpg" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> WILD t-shirt </i> </font> </figcaption>
   </div>
 </div>
 </center>
