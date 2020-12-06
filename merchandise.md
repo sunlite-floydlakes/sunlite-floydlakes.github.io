@@ -141,6 +141,19 @@ br {
 
 <div class="row">
    <div class="column">
+    <img src="/assets/merch/glacier_blue_tshirt.jpg">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Glacier blue t-shirt <br/> (S through 2XL available)<br />&#36;15.00<br/><br/><br/> </i> </font> </figcaption>
+  </div>
+  <div class="column" style="flex=100%">
+    <img src="/assets/merch/tiedie_tshirt.jpg" style="width:100%">
+    <figcaption style="line-height: 0.8"> <font size="2"> <i> Tie-die t-shirt  <br/> (S through 2XL available)<br />&#36;17.00<br/><br/><br/> </i>  </font> </figcaption>
+  </div>
+</div>
+</center>
+<hr>
+
+<div class="row">
+   <div class="column">
     <img src="/assets/merchplaceholder.png">
     <figcaption style="line-height: 0.8"> <font size="2"> <i> WILD t-shirt<br/> (S through 4XL available)<br />&#36;15.00<br/><br/><br/> </i> </font> </figcaption>
   </div>
@@ -172,7 +185,7 @@ br {
     <figcaption style="line-height: 0.8"> <font size="2"> <i> Can coozies <br/>&#36;2.50<br/><br/><br/> </i> </font> </figcaption>
   </div>
   <div class="column" style="flex=100%">
-    <img src="/assets/merchplaceholder.png" style="width:100%">
+    <img src="/assets/merch/bottle_coozies.jpg" style="width:100%">
     <figcaption style="line-height: 0.8"> <font size="2"> <i> Bottle coozies <br/>&#36;4.50</i> </font> </figcaption>
   </div>
 </div>
