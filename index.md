@@ -30,6 +30,10 @@ layout: page
 .tg .tg-0pkyr{border-color:inherit;text-align:right;vertical-align:right}
 .tg .tg-0pkyc{border-color:inherit;text-align:left;vertical-align:middle}
 .ones { font-weight: bold; color: #dc9632; font-size: 23.5px;}
+  
+p {
+  line-height: 10%;
+}
 </style>
 
 <h4>2020</h4>
@@ -37,7 +41,7 @@ layout: page
 <tr>
 <td class="tg-0pkyr" width="5%"></td>
 <td class="tg-0pkyr" width="18%"><img src="\assets\bestoflakes2020.png"></td>
-<td class="tg-0pkyl"><h5><font color="dc9632"> #1 </font></h5><strong>Burger, French Fries, Bar, Casual Dining, Bosses (Wayne &amp; Kathy),  Bartender (Josh), &amp; Small Company to Work For</strong> </p></td>
+<td class="tg-0pkyl"><h5><font color="dc9632"> #1 </font></h5><p><strong>Burger, French Fries, Bar, Casual Dining, Bosses (Wayne &amp; Kathy),  Bartender (Josh), &amp; Small Company to Work For</strong></p></td>
 </tr>
 </table>   
 <br>
