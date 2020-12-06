@@ -32,7 +32,7 @@ layout: page
 .ones { font-weight: bold; color: #dc9632; font-size: 23.5px;}
   
 p {
-  line-height: 10%;
+  line-height: 0%;
 }
 </style>
 
