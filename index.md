@@ -10,21 +10,13 @@ layout: page
 <center><p>Award winning beef, bison, and elk burgers along with affordable, family friendly dining. There's something for everyone! </p></center>
 
 <hr>
-<h4><font color="dc9632"> TEMPORARILY CLOSED </font></h4>
-<h5><font color="dc9632">Take-out operations will resume at 11:00am on Jan 1, 2020.</font></h5>
-
-
-<!--
-<hr>
 <h4><font color="dc9632"> Open for take-out only! </font></h4>
 <h5><font color="dc9632">(in accordance with MN Executive Order 20-99)</font></h5>
--->
 
-<!--
 <hr>
 <h3>HOURS</h3>
 <strong> Daily </strong> | 11am - 8pm 
--->
+
 
 <hr>
 
