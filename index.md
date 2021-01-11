@@ -11,7 +11,7 @@ layout: page
 
 <hr>
 <h4><font color="dc9632"> Our dining room is open! </font></h4>
-<h6><font color="dc9632"> Still offering take-out. Check out our take-out specials <a href="https://sunlite-floydlakes.github.io/specials/">here</a>. </font></h6>
+<h6><font color="dc9632"> Still offering take-out. Check out our take-out specials <u><a href="https://sunlite-floydlakes.github.io/specials/">here</a></u>. </font></h6>
 
 
 
