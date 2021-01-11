@@ -10,12 +10,15 @@ layout: page
 <center><p>Award winning beef, bison, and elk burgers along with affordable, family friendly dining. There's something for everyone! </p></center>
 
 <hr>
-<h4><font color="dc9632"> Open for take-out only! </font></h4>
-<h5><font color="dc9632">(in accordance with MN Executive Order 20-99)</font></h5>
+<h4><font color="dc9632"> Our dining room is open! </font></h4>
+<h5><font color="dc9632"> Still offering take-out. Check out our take-out specials here. </font></h5>
+
+
 
 <hr>
 <h3>HOURS</h3>
-<strong> Daily </strong> | 11am - 8pm 
+<strong> Sun, Mon, Tue, Wed </strong> | 10:30am - 9pm 
+<strong> Thu, Fri, Sat </strong> | 10:30am - 10pm 
 
 
 <hr>
