@@ -9,11 +9,6 @@ layout: page
 <center> <h2>WELCOME TO SUNLITE BAR &amp; GRILL</h2></center>
 <center><p>Award winning beef, bison, and elk burgers along with affordable, family friendly dining. There's something for everyone! </p></center>
 
-<hr>
-<h4><font color="dc9632"> Our dining room is open! </font></h4>
-<strong> Take-out is still available. Check out our take-out specials <u><a href="https://sunlite-floydlakes.github.io/specials/">here</a></u>. </strong>
-
-
 
 <hr>
 <h3>HOURS</h3>
