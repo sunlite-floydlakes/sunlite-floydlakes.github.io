@@ -12,8 +12,9 @@ layout: page
 
 <hr>
 <h3>HOURS</h3>
-<strong> Sun, Mon, Tue, Wed </strong> | 10:30am - 9pm <br>
-<strong> Thu, Fri, Sat </strong> | 10:30am - 11pm 
+<strong> Sun, Mon, Tue </strong> | 10:30am - 10pm <br>
+<strong> Wed </strong> | 10:30am - 11pm <br>
+<strong> Thu, Fri, Sat </strong> | 10:30am - 1am
 
 
 <hr>
